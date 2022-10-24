@@ -1,0 +1,3112 @@
+﻿FIPS,State,County,Date,Population
+1001,Alabama,Autauga,1990,34222
+1003,Alabama,Baldwin,1990,98280
+1005,Alabama,Barbour,1990,25417
+1007,Alabama,Bibb,1990,16576
+1009,Alabama,Blount,1990,39248
+1011,Alabama,Bullock,1990,11042
+1013,Alabama,Butler,1990,21892
+1015,Alabama,Calhoun,1990,116034
+1017,Alabama,Chambers,1990,36876
+1019,Alabama,Cherokee,1990,19543
+1021,Alabama,Chilton,1990,32458
+1023,Alabama,Choctaw,1990,16018
+1025,Alabama,Clarke,1990,27240
+1027,Alabama,Clay,1990,13252
+1029,Alabama,Cleburne,1990,12730
+1031,Alabama,Coffee,1990,40240
+1033,Alabama,Colbert,1990,51666
+1035,Alabama,Conecuh,1990,14054
+1037,Alabama,Coosa,1990,11063
+1039,Alabama,Covington,1990,36478
+1041,Alabama,Crenshaw,1990,13635
+1043,Alabama,Cullman,1990,67613
+1045,Alabama,Dale,1990,49633
+1047,Alabama,Dallas,1990,48130
+1049,Alabama,DeKalb,1990,54651
+1051,Alabama,Elmore,1990,49210
+1053,Alabama,Escambia,1990,35518
+1055,Alabama,Etowah,1990,99840
+1057,Alabama,Fayette,1990,17962
+1059,Alabama,Franklin,1990,27814
+1061,Alabama,Geneva,1990,23647
+1063,Alabama,Greene,1990,10153
+1065,Alabama,Hale,1990,15498
+1067,Alabama,Henry,1990,15374
+1069,Alabama,Houston,1990,81331
+1071,Alabama,Jackson,1990,47796
+1073,Alabama,Jefferson,1990,651525
+1075,Alabama,Lamar,1990,15715
+1077,Alabama,Lauderdale,1990,79661
+1079,Alabama,Lawrence,1990,31513
+1081,Alabama,Lee,1990,87146
+1083,Alabama,Limestone,1990,54135
+1085,Alabama,Lowndes,1990,12658
+1087,Alabama,Macon,1990,24928
+1089,Alabama,Madison,1990,238912
+1091,Alabama,Marengo,1990,23084
+1093,Alabama,Marion,1990,29830
+1095,Alabama,Marshall,1990,70832
+1097,Alabama,Mobile,1990,378643
+1099,Alabama,Monroe,1990,23968
+1101,Alabama,Montgomery,1990,209085
+1103,Alabama,Morgan,1990,100043
+1105,Alabama,Perry,1990,12759
+1107,Alabama,Pickens,1990,20699
+1109,Alabama,Pike,1990,27595
+1111,Alabama,Randolph,1990,19881
+1113,Alabama,Russell,1990,46860
+1117,Alabama,Shelby,1990,99358
+1115,Alabama,St. Clair,1990,50009
+1119,Alabama,Sumter,1990,16174
+1121,Alabama,Talladega,1990,74107
+1123,Alabama,Tallapoosa,1990,38826
+1125,Alabama,Tuscaloosa,1990,150522
+1127,Alabama,Walker,1990,67670
+1129,Alabama,Washington,1990,16694
+1131,Alabama,Wilcox,1990,13568
+1133,Alabama,Winston,1990,22053
+4001,Arizona,Apache,1990,61591
+4003,Arizona,Cochise,1990,97624
+4005,Arizona,Coconino,1990,96591
+4007,Arizona,Gila,1990,40216
+4009,Arizona,Graham,1990,26554
+4011,Arizona,Greenlee,1990,8008
+4012,Arizona,La Paz,1990,13844
+4013,Arizona,Maricopa,1990,2122101
+4015,Arizona,Mohave,1990,93497
+4017,Arizona,Navajo,1990,77658
+4019,Arizona,Pima,1990,666880
+4021,Arizona,Pinal,1990,116379
+4023,Arizona,Santa Cruz,1990,29676
+4025,Arizona,Yavapai,1990,107714
+4027,Arizona,Yuma,1990,106895
+5001,Arkansas,Arkansas,1990,21653
+5003,Arkansas,Ashley,1990,24319
+5005,Arkansas,Baxter,1990,31186
+5007,Arkansas,Benton,1990,97499
+5009,Arkansas,Boone,1990,28297
+5011,Arkansas,Bradley,1990,11793
+5013,Arkansas,Calhoun,1990,5826
+5015,Arkansas,Carroll,1990,18654
+5017,Arkansas,Chicot,1990,15713
+5019,Arkansas,Clark,1990,21437
+5021,Arkansas,Clay,1990,18107
+5023,Arkansas,Cleburne,1990,19411
+5025,Arkansas,Cleveland,1990,7781
+5027,Arkansas,Columbia,1990,25691
+5029,Arkansas,Conway,1990,19151
+5031,Arkansas,Craighead,1990,68956
+5033,Arkansas,Crawford,1990,42493
+5035,Arkansas,Crittenden,1990,49939
+5037,Arkansas,Cross,1990,19225
+5039,Arkansas,Dallas,1990,9614
+5041,Arkansas,Desha,1990,16798
+5043,Arkansas,Drew,1990,17369
+5045,Arkansas,Faulkner,1990,60006
+5047,Arkansas,Franklin,1990,14897
+5049,Arkansas,Fulton,1990,10037
+5051,Arkansas,Garland,1990,73397
+5053,Arkansas,Grant,1990,13948
+5055,Arkansas,Greene,1990,31804
+5057,Arkansas,Hempstead,1990,21621
+5059,Arkansas,Hot Spring,1990,26115
+5061,Arkansas,Howard,1990,13569
+5063,Arkansas,Independence,1990,31192
+5065,Arkansas,Izard,1990,11364
+5067,Arkansas,Jackson,1990,18944
+5069,Arkansas,Jefferson,1990,85487
+5071,Arkansas,Johnson,1990,18221
+5073,Arkansas,Lafayette,1990,9643
+5075,Arkansas,Lawrence,1990,17457
+5077,Arkansas,Lee,1990,13053
+5079,Arkansas,Lincoln,1990,13690
+5081,Arkansas,Little River,1990,13966
+5083,Arkansas,Logan,1990,20557
+5085,Arkansas,Lonoke,1990,39268
+5087,Arkansas,Madison,1990,11618
+5089,Arkansas,Marion,1990,12001
+5091,Arkansas,Miller,1990,38467
+5093,Arkansas,Mississippi,1990,57525
+5095,Arkansas,Monroe,1990,11333
+5097,Arkansas,Montgomery,1990,7841
+5099,Arkansas,Nevada,1990,10101
+5101,Arkansas,Newton,1990,7666
+5103,Arkansas,Ouachita,1990,30574
+5105,Arkansas,Perry,1990,7969
+5107,Arkansas,Phillips,1990,28838
+5109,Arkansas,Pike,1990,10086
+5111,Arkansas,Poinsett,1990,24664
+5113,Arkansas,Polk,1990,17347
+5115,Arkansas,Pope,1990,45883
+5117,Arkansas,Prairie,1990,9518
+5119,Arkansas,Pulaski,1990,349660
+5121,Arkansas,Randolph,1990,16558
+5125,Arkansas,Saline,1990,64183
+5127,Arkansas,Scott,1990,10205
+5129,Arkansas,Searcy,1990,7841
+5131,Arkansas,Sebastian,1990,99590
+5133,Arkansas,Sevier,1990,13637
+5135,Arkansas,Sharp,1990,14109
+5123,Arkansas,St. Francis,1990,28497
+5137,Arkansas,Stone,1990,9775
+5139,Arkansas,Union,1990,46719
+5141,Arkansas,Van Buren,1990,14008
+5143,Arkansas,Washington,1990,113409
+5145,Arkansas,White,1990,54676
+5147,Arkansas,Woodruff,1990,9520
+5149,Arkansas,Yell,1990,17759
+6001,California,Alameda,1990,1279182
+6003,California,Alpine,1990,1113
+6005,California,Amador,1990,30039
+6007,California,Butte,1990,182120
+6009,California,Calaveras,1990,31998
+6011,California,Colusa,1990,16275
+6013,California,Contra Costa,1990,803732
+6015,California,Del Norte,1990,23460
+6017,California,El Dorado,1990,125995
+6019,California,Fresno,1990,667490
+6021,California,Glenn,1990,24798
+6023,California,Humboldt,1990,119118
+6025,California,Imperial,1990,109303
+6027,California,Inyo,1990,18281
+6029,California,Kern,1990,543477
+6031,California,Kings,1990,101469
+6033,California,Lake,1990,50631
+6035,California,Lassen,1990,27598
+6037,California,Los Angeles,1990,8863164
+6039,California,Madera,1990,88090
+6041,California,Marin,1990,230096
+6043,California,Mariposa,1990,14302
+6045,California,Mendocino,1990,80345
+6047,California,Merced,1990,178403
+6049,California,Modoc,1990,9678
+6051,California,Mono,1990,9956
+6053,California,Monterey,1990,355660
+6055,California,Napa,1990,110765
+6057,California,Nevada,1990,78510
+6059,California,Orange,1990,2410556
+6061,California,Placer,1990,172796
+6063,California,Plumas,1990,19739
+6065,California,Riverside,1990,1170413
+6067,California,Sacramento,1990,1041219
+6069,California,San Benito,1990,36697
+6071,California,San Bernardino,1990,1418380
+6073,California,San Diego,1990,2498016
+6075,California,San Francisco,1990,723959
+6077,California,San Joaquin,1990,480628
+6079,California,San Luis Obispo,1990,217162
+6081,California,San Mateo,1990,649623
+6083,California,Santa Barbara,1990,369608
+6085,California,Santa Clara,1990,1497577
+6087,California,Santa Cruz,1990,229734
+6089,California,Shasta,1990,147036
+6091,California,Sierra,1990,3318
+6093,California,Siskiyou,1990,43531
+6095,California,Solano,1990,340421
+6097,California,Sonoma,1990,388222
+6099,California,Stanislaus,1990,370522
+6101,California,Sutter,1990,64415
+6103,California,Tehama,1990,49625
+6105,California,Trinity,1990,13063
+6107,California,Tulare,1990,311921
+6109,California,Tuolumne,1990,48456
+6111,California,Ventura,1990,669016
+6113,California,Yolo,1990,141092
+6115,California,Yuba,1990,58228
+8001,Colorado,Adams,1990,265038
+8003,Colorado,Alamosa,1990,13617
+8005,Colorado,Arapahoe,1990,391511
+8007,Colorado,Archuleta,1990,5345
+8009,Colorado,Baca,1990,4556
+8011,Colorado,Bent,1990,5048
+8013,Colorado,Boulder,1990,225339
+8015,Colorado,Chaffee,1990,12684
+8017,Colorado,Cheyenne,1990,2397
+8019,Colorado,Clear Creek,1990,7619
+8021,Colorado,Conejos,1990,7453
+8023,Colorado,Costilla,1990,3190
+8025,Colorado,Crowley,1990,3946
+8027,Colorado,Custer,1990,1926
+8029,Colorado,Delta,1990,20980
+8031,Colorado,Denver,1990,467610
+8033,Colorado,Dolores,1990,1504
+8035,Colorado,Douglas,1990,60391
+8037,Colorado,Eagle,1990,21928
+8041,Colorado,El Paso,1990,397014
+8039,Colorado,Elbert,1990,9646
+8043,Colorado,Fremont,1990,32273
+8045,Colorado,Garfield,1990,29974
+8047,Colorado,Gilpin,1990,3070
+8049,Colorado,Grand,1990,7966
+8051,Colorado,Gunnison,1990,10273
+8053,Colorado,Hinsdale,1990,467
+8055,Colorado,Huerfano,1990,6009
+8057,Colorado,Jackson,1990,1605
+8059,Colorado,Jefferson,1990,438430
+8061,Colorado,Kiowa,1990,1688
+8063,Colorado,Kit Carson,1990,7140
+8067,Colorado,La Plata,1990,32284
+8065,Colorado,Lake,1990,6007
+8069,Colorado,Larimer,1990,186136
+8071,Colorado,Las Animas,1990,13765
+8073,Colorado,Lincoln,1990,4529
+8075,Colorado,Logan,1990,17567
+8077,Colorado,Mesa,1990,93145
+8079,Colorado,Mineral,1990,558
+8081,Colorado,Moffat,1990,11357
+8083,Colorado,Montezuma,1990,18672
+8085,Colorado,Montrose,1990,24423
+8087,Colorado,Morgan,1990,21939
+8089,Colorado,Otero,1990,20185
+8091,Colorado,Ouray,1990,2295
+8093,Colorado,Park,1990,7174
+8095,Colorado,Phillips,1990,4189
+8097,Colorado,Pitkin,1990,12661
+8099,Colorado,Prowers,1990,13347
+8101,Colorado,Pueblo,1990,123051
+8103,Colorado,Rio Blanco,1990,5972
+8105,Colorado,Rio Grande,1990,10770
+8107,Colorado,Routt,1990,14088
+8109,Colorado,Saguache,1990,4619
+8111,Colorado,San Juan,1990,745
+8113,Colorado,San Miguel,1990,3653
+8115,Colorado,Sedgwick,1990,2690
+8117,Colorado,Summit,1990,12881
+8119,Colorado,Teller,1990,12468
+8121,Colorado,Washington,1990,4812
+8123,Colorado,Weld,1990,131821
+8125,Colorado,Yuma,1990,8954
+9001,Connecticut,Fairfield,1990,827645
+9003,Connecticut,Hartford,1990,851783
+9005,Connecticut,Litchfield,1990,174092
+9007,Connecticut,Middlesex,1990,143196
+9009,Connecticut,New Haven,1990,804219
+9011,Connecticut,New London,1990,254957
+9013,Connecticut,Tolland,1990,128699
+9015,Connecticut,Windham,1990,102525
+10001,Delaware,Kent,1990,110993
+10003,Delaware,New Castle,1990,441946
+10005,Delaware,Sussex,1990,113229
+11001,District of Columbia,District of Columbia,1990,606900
+12001,Florida,Alachua,1990,181596
+12003,Florida,Baker,1990,18486
+12005,Florida,Bay,1990,126994
+12007,Florida,Bradford,1990,22515
+12009,Florida,Brevard,1990,398978
+12011,Florida,Broward,1990,1255488
+12013,Florida,Calhoun,1990,11011
+12015,Florida,Charlotte,1990,110975
+12017,Florida,Citrus,1990,93515
+12019,Florida,Clay,1990,105986
+12021,Florida,Collier,1990,152099
+12023,Florida,Columbia,1990,42613
+12025,Florida,Dade,1990,1937094
+12027,Florida,DeSoto,1990,23865
+12029,Florida,Dixie,1990,10585
+12031,Florida,Duval,1990,672971
+12033,Florida,Escambia,1990,262798
+12035,Florida,Flagler,1990,28701
+12037,Florida,Franklin,1990,8967
+12039,Florida,Gadsden,1990,41105
+12041,Florida,Gilchrist,1990,9667
+12043,Florida,Glades,1990,7591
+12045,Florida,Gulf,1990,11504
+12047,Florida,Hamilton,1990,10930
+12049,Florida,Hardee,1990,19499
+12051,Florida,Hendry,1990,25773
+12053,Florida,Hernando,1990,101115
+12055,Florida,Highlands,1990,68432
+12057,Florida,Hillsborough,1990,834054
+12059,Florida,Holmes,1990,15778
+12061,Florida,Indian River,1990,90208
+12063,Florida,Jackson,1990,41375
+12065,Florida,Jefferson,1990,11296
+12067,Florida,Lafayette,1990,5578
+12069,Florida,Lake,1990,152104
+12071,Florida,Lee,1990,335113
+12073,Florida,Leon,1990,192493
+12075,Florida,Levy,1990,25923
+12077,Florida,Liberty,1990,5569
+12079,Florida,Madison,1990,16569
+12081,Florida,Manatee,1990,211707
+12083,Florida,Marion,1990,194833
+12085,Florida,Martin,1990,100900
+12087,Florida,Monroe,1990,78024
+12089,Florida,Nassau,1990,43941
+12091,Florida,Okaloosa,1990,143776
+12093,Florida,Okeechobee,1990,29627
+12095,Florida,Orange,1990,677491
+12097,Florida,Osceola,1990,107728
+12099,Florida,Palm Beach,1990,863518
+12101,Florida,Pasco,1990,281131
+12103,Florida,Pinellas,1990,851659
+12105,Florida,Polk,1990,405382
+12107,Florida,Putnam,1990,65070
+12113,Florida,Santa Rosa,1990,81608
+12115,Florida,Sarasota,1990,277776
+12117,Florida,Seminole,1990,287529
+12109,Florida,St. Johns,1990,83829
+12111,Florida,St. Lucie,1990,150171
+12119,Florida,Sumter,1990,31577
+12121,Florida,Suwannee,1990,26780
+12123,Florida,Taylor,1990,17111
+12125,Florida,Union,1990,10252
+12127,Florida,Volusia,1990,370712
+12129,Florida,Wakulla,1990,14202
+12131,Florida,Walton,1990,27760
+12133,Florida,Washington,1990,16919
+13001,Georgia,Appling,1990,15744
+13003,Georgia,Atkinson,1990,6213
+13005,Georgia,Bacon,1990,9566
+13007,Georgia,Baker,1990,3615
+13009,Georgia,Baldwin,1990,39530
+13011,Georgia,Banks,1990,10308
+13013,Georgia,Barrow,1990,29721
+13015,Georgia,Bartow,1990,55911
+13017,Georgia,Ben Hill,1990,16245
+13019,Georgia,Berrien,1990,14153
+13021,Georgia,Bibb,1990,149967
+13023,Georgia,Bleckley,1990,10430
+13025,Georgia,Brantley,1990,11077
+13027,Georgia,Brooks,1990,15398
+13029,Georgia,Bryan,1990,15438
+13031,Georgia,Bulloch,1990,43125
+13033,Georgia,Burke,1990,20579
+13035,Georgia,Butts,1990,15326
+13037,Georgia,Calhoun,1990,5013
+13039,Georgia,Camden,1990,30167
+13043,Georgia,Candler,1990,7744
+13045,Georgia,Carroll,1990,71422
+13047,Georgia,Catoosa,1990,42464
+13049,Georgia,Charlton,1990,8496
+13051,Georgia,Chatham,1990,216935
+13053,Georgia,Chattahoochee,1990,16934
+13055,Georgia,Chattooga,1990,22242
+13057,Georgia,Cherokee,1990,90204
+13059,Georgia,Clarke,1990,87594
+13061,Georgia,Clay,1990,3364
+13063,Georgia,Clayton,1990,182052
+13065,Georgia,Clinch,1990,6160
+13067,Georgia,Cobb,1990,447745
+13069,Georgia,Coffee,1990,29592
+13071,Georgia,Colquitt,1990,36645
+13073,Georgia,Columbia,1990,66031
+13075,Georgia,Cook,1990,13456
+13077,Georgia,Coweta,1990,53853
+13079,Georgia,Crawford,1990,8991
+13081,Georgia,Crisp,1990,20011
+13083,Georgia,Dade,1990,13147
+13085,Georgia,Dawson,1990,9429
+13089,Georgia,DeKalb,1990,545837
+13087,Georgia,Decatur,1990,25511
+13091,Georgia,Dodge,1990,17607
+13093,Georgia,Dooly,1990,9901
+13095,Georgia,Dougherty,1990,96311
+13097,Georgia,Douglas,1990,71120
+13099,Georgia,Early,1990,11854
+13101,Georgia,Echols,1990,2334
+13103,Georgia,Effingham,1990,25687
+13105,Georgia,Elbert,1990,18949
+13107,Georgia,Emanuel,1990,20546
+13109,Georgia,Evans,1990,8724
+13111,Georgia,Fannin,1990,15992
+13113,Georgia,Fayette,1990,62415
+13115,Georgia,Floyd,1990,81251
+13117,Georgia,Forsyth,1990,44083
+13119,Georgia,Franklin,1990,16650
+13121,Georgia,Fulton,1990,648951
+13123,Georgia,Gilmer,1990,13368
+13125,Georgia,Glascock,1990,2357
+13127,Georgia,Glynn,1990,62496
+13129,Georgia,Gordon,1990,35072
+13131,Georgia,Grady,1990,20279
+13133,Georgia,Greene,1990,11793
+13135,Georgia,Gwinnett,1990,352910
+13137,Georgia,Habersham,1990,27621
+13139,Georgia,Hall,1990,95428
+13141,Georgia,Hancock,1990,8908
+13143,Georgia,Haralson,1990,21966
+13145,Georgia,Harris,1990,17788
+13147,Georgia,Hart,1990,19712
+13149,Georgia,Heard,1990,8628
+13151,Georgia,Henry,1990,58741
+13153,Georgia,Houston,1990,89208
+13155,Georgia,Irwin,1990,8649
+13157,Georgia,Jackson,1990,30005
+13159,Georgia,Jasper,1990,8453
+13161,Georgia,Jeff Davis,1990,12032
+13163,Georgia,Jefferson,1990,17408
+13165,Georgia,Jenkins,1990,8247
+13167,Georgia,Johnson,1990,8329
+13169,Georgia,Jones,1990,20739
+13171,Georgia,Lamar,1990,13038
+13173,Georgia,Lanier,1990,5531
+13175,Georgia,Laurens,1990,39988
+13177,Georgia,Lee,1990,16250
+13179,Georgia,Liberty,1990,52745
+13181,Georgia,Lincoln,1990,7442
+13183,Georgia,Long,1990,6202
+13185,Georgia,Lowndes,1990,75981
+13187,Georgia,Lumpkin,1990,14573
+13193,Georgia,Macon,1990,13114
+13195,Georgia,Madison,1990,21050
+13197,Georgia,Marion,1990,5590
+13189,Georgia,McDuffie,1990,20119
+13191,Georgia,McIntosh,1990,8634
+13199,Georgia,Meriwether,1990,22411
+13201,Georgia,Miller,1990,6280
+13205,Georgia,Mitchell,1990,20275
+13207,Georgia,Monroe,1990,17113
+13209,Georgia,Montgomery,1990,7163
+13211,Georgia,Morgan,1990,12883
+13213,Georgia,Murray,1990,26147
+13215,Georgia,Muscogee,1990,179278
+13217,Georgia,Newton,1990,41808
+13219,Georgia,Oconee,1990,17618
+13221,Georgia,Oglethorpe,1990,9763
+13223,Georgia,Paulding,1990,41611
+13225,Georgia,Peach,1990,21189
+13227,Georgia,Pickens,1990,14432
+13229,Georgia,Pierce,1990,13328
+13231,Georgia,Pike,1990,10224
+13233,Georgia,Polk,1990,33815
+13235,Georgia,Pulaski,1990,8108
+13237,Georgia,Putnam,1990,14137
+13239,Georgia,Quitman,1990,2209
+13241,Georgia,Rabun,1990,11648
+13243,Georgia,Randolph,1990,8023
+13245,Georgia,Richmond,1990,189719
+13247,Georgia,Rockdale,1990,54091
+13249,Georgia,Schley,1990,3588
+13251,Georgia,Screven,1990,13842
+13253,Georgia,Seminole,1990,9010
+13255,Georgia,Spalding,1990,54457
+13257,Georgia,Stephens,1990,23257
+13259,Georgia,Stewart,1990,5654
+13261,Georgia,Sumter,1990,30228
+13263,Georgia,Talbot,1990,6524
+13265,Georgia,Taliaferro,1990,1915
+13267,Georgia,Tattnall,1990,17722
+13269,Georgia,Taylor,1990,7642
+13271,Georgia,Telfair,1990,11000
+13273,Georgia,Terrell,1990,10653
+13275,Georgia,Thomas,1990,38986
+13277,Georgia,Tift,1990,34998
+13279,Georgia,Toombs,1990,24072
+13281,Georgia,Towns,1990,6754
+13283,Georgia,Treutlen,1990,5994
+13285,Georgia,Troup,1990,55536
+13287,Georgia,Turner,1990,8703
+13289,Georgia,Twiggs,1990,9806
+13291,Georgia,Union,1990,11993
+13293,Georgia,Upson,1990,26300
+13295,Georgia,Walker,1990,58340
+13297,Georgia,Walton,1990,38586
+13299,Georgia,Ware,1990,35471
+13301,Georgia,Warren,1990,6078
+13303,Georgia,Washington,1990,19112
+13305,Georgia,Wayne,1990,22356
+13307,Georgia,Webster,1990,2263
+13309,Georgia,Wheeler,1990,4903
+13311,Georgia,White,1990,13006
+13313,Georgia,Whitfield,1990,72462
+13315,Georgia,Wilcox,1990,7008
+13317,Georgia,Wilkes,1990,10597
+13319,Georgia,Wilkinson,1990,10228
+13321,Georgia,Worth,1990,19745
+16001,Idaho,Ada,1990,205775
+16003,Idaho,Adams,1990,3254
+16005,Idaho,Bannock,1990,66026
+16007,Idaho,Bear Lake,1990,6084
+16009,Idaho,Benewah,1990,7937
+16011,Idaho,Bingham,1990,37583
+16013,Idaho,Blaine,1990,13552
+16015,Idaho,Boise,1990,3509
+16017,Idaho,Bonner,1990,26622
+16019,Idaho,Bonneville,1990,72207
+16021,Idaho,Boundary,1990,8332
+16023,Idaho,Butte,1990,2918
+16025,Idaho,Camas,1990,727
+16027,Idaho,Canyon,1990,90076
+16029,Idaho,Caribou,1990,6963
+16031,Idaho,Cassia,1990,19532
+16033,Idaho,Clark,1990,762
+16035,Idaho,Clearwater,1990,8505
+16037,Idaho,Custer,1990,4133
+16039,Idaho,Elmore,1990,21205
+16041,Idaho,Franklin,1990,9232
+16043,Idaho,Fremont,1990,10937
+16045,Idaho,Gem,1990,11844
+16047,Idaho,Gooding,1990,11633
+16049,Idaho,Idaho,1990,13783
+16051,Idaho,Jefferson,1990,16543
+16053,Idaho,Jerome,1990,15138
+16055,Idaho,Kootenai,1990,69795
+16057,Idaho,Latah,1990,30617
+16059,Idaho,Lemhi,1990,6899
+16061,Idaho,Lewis,1990,3516
+16063,Idaho,Lincoln,1990,3308
+16065,Idaho,Madison,1990,23674
+16067,Idaho,Minidoka,1990,19361
+16069,Idaho,Nez Perce,1990,33754
+16071,Idaho,Oneida,1990,3492
+16073,Idaho,Owyhee,1990,8392
+16075,Idaho,Payette,1990,16434
+16077,Idaho,Power,1990,7086
+16079,Idaho,Shoshone,1990,13931
+16081,Idaho,Teton,1990,3439
+16083,Idaho,Twin Falls,1990,53580
+16085,Idaho,Valley,1990,6109
+16087,Idaho,Washington,1990,8550
+17001,Illinois,Adams,1990,66090
+17003,Illinois,Alexander,1990,10626
+17005,Illinois,Bond,1990,14991
+17007,Illinois,Boone,1990,30806
+17009,Illinois,Brown,1990,5836
+17011,Illinois,Bureau,1990,35688
+17013,Illinois,Calhoun,1990,5322
+17015,Illinois,Carroll,1990,16805
+17017,Illinois,Cass,1990,13437
+17019,Illinois,Champaign,1990,173025
+17021,Illinois,Christian,1990,34418
+17023,Illinois,Clark,1990,15921
+17025,Illinois,Clay,1990,14460
+17027,Illinois,Clinton,1990,33944
+17029,Illinois,Coles,1990,51644
+17031,Illinois,Cook,1990,5105067
+17033,Illinois,Crawford,1990,19464
+17035,Illinois,Cumberland,1990,10670
+17039,Illinois,De Witt,1990,16516
+17037,Illinois,DeKalb,1990,77932
+17041,Illinois,Douglas,1990,19464
+17043,Illinois,DuPage,1990,781666
+17045,Illinois,Edgar,1990,19595
+17047,Illinois,Edwards,1990,7440
+17049,Illinois,Effingham,1990,31704
+17051,Illinois,Fayette,1990,20893
+17053,Illinois,Ford,1990,14275
+17055,Illinois,Franklin,1990,40319
+17057,Illinois,Fulton,1990,38080
+17059,Illinois,Gallatin,1990,6909
+17061,Illinois,Greene,1990,15317
+17063,Illinois,Grundy,1990,32337
+17065,Illinois,Hamilton,1990,8499
+17067,Illinois,Hancock,1990,21373
+17069,Illinois,Hardin,1990,5189
+17071,Illinois,Henderson,1990,8096
+17073,Illinois,Henry,1990,51159
+17075,Illinois,Iroquois,1990,30787
+17077,Illinois,Jackson,1990,61067
+17079,Illinois,Jasper,1990,10609
+17081,Illinois,Jefferson,1990,37020
+17083,Illinois,Jersey,1990,20539
+17085,Illinois,Jo Daviess,1990,21821
+17087,Illinois,Johnson,1990,11347
+17089,Illinois,Kane,1990,317471
+17091,Illinois,Kankakee,1990,96255
+17093,Illinois,Kendall,1990,39413
+17095,Illinois,Knox,1990,56393
+17099,Illinois,La Salle,1990,106913
+17097,Illinois,Lake,1990,516418
+17101,Illinois,Lawrence,1990,15972
+17103,Illinois,Lee,1990,34392
+17105,Illinois,Livingston,1990,39301
+17107,Illinois,Logan,1990,30798
+17115,Illinois,Macon,1990,117206
+17117,Illinois,Macoupin,1990,47679
+17119,Illinois,Madison,1990,249238
+17121,Illinois,Marion,1990,41561
+17123,Illinois,Marshall,1990,12846
+17125,Illinois,Mason,1990,16269
+17127,Illinois,Massac,1990,14752
+17109,Illinois,McDonough,1990,35244
+17111,Illinois,McHenry,1990,183241
+17113,Illinois,McLean,1990,129180
+17129,Illinois,Menard,1990,11164
+17131,Illinois,Mercer,1990,17290
+17133,Illinois,Monroe,1990,22422
+17135,Illinois,Montgomery,1990,30728
+17137,Illinois,Morgan,1990,36397
+17139,Illinois,Moultrie,1990,13930
+17141,Illinois,Ogle,1990,45957
+17143,Illinois,Peoria,1990,182827
+17145,Illinois,Perry,1990,21412
+17147,Illinois,Piatt,1990,15548
+17149,Illinois,Pike,1990,17577
+17151,Illinois,Pope,1990,4373
+17153,Illinois,Pulaski,1990,7523
+17155,Illinois,Putnam,1990,5730
+17157,Illinois,Randolph,1990,34583
+17159,Illinois,Richland,1990,16545
+17161,Illinois,Rock Island,1990,148723
+17165,Illinois,Saline,1990,26551
+17167,Illinois,Sangamon,1990,178386
+17169,Illinois,Schuyler,1990,7498
+17171,Illinois,Scott,1990,5644
+17173,Illinois,Shelby,1990,22261
+17163,Illinois,St. Clair,1990,262852
+17175,Illinois,Stark,1990,6534
+17177,Illinois,Stephenson,1990,48052
+17179,Illinois,Tazewell,1990,123692
+17181,Illinois,Union,1990,17619
+17183,Illinois,Vermilion,1990,88257
+17185,Illinois,Wabash,1990,13111
+17187,Illinois,Warren,1990,19181
+17189,Illinois,Washington,1990,14965
+17191,Illinois,Wayne,1990,17241
+17193,Illinois,White,1990,16522
+17195,Illinois,Whiteside,1990,60186
+17197,Illinois,Will,1990,357313
+17199,Illinois,Williamson,1990,57733
+17201,Illinois,Winnebago,1990,252913
+17203,Illinois,Woodford,1990,32653
+18001,Indiana,Adams,1990,31095
+18003,Indiana,Allen,1990,300836
+18005,Indiana,Bartholomew,1990,63657
+18007,Indiana,Benton,1990,9441
+18009,Indiana,Blackford,1990,14067
+18011,Indiana,Boone,1990,38147
+18013,Indiana,Brown,1990,14080
+18015,Indiana,Carroll,1990,18809
+18017,Indiana,Cass,1990,38413
+18019,Indiana,Clark,1990,87777
+18021,Indiana,Clay,1990,24705
+18023,Indiana,Clinton,1990,30974
+18025,Indiana,Crawford,1990,9914
+18027,Indiana,Daviess,1990,27533
+18033,Indiana,De Kalb,1990,35324
+18029,Indiana,Dearborn,1990,38835
+18031,Indiana,Decatur,1990,23645
+18035,Indiana,Delaware,1990,119659
+18037,Indiana,Dubois,1990,36616
+18039,Indiana,Elkhart,1990,156198
+18041,Indiana,Fayette,1990,26015
+18043,Indiana,Floyd,1990,64404
+18045,Indiana,Fountain,1990,17808
+18047,Indiana,Franklin,1990,19580
+18049,Indiana,Fulton,1990,18840
+18051,Indiana,Gibson,1990,31913
+18053,Indiana,Grant,1990,74169
+18055,Indiana,Greene,1990,30410
+18057,Indiana,Hamilton,1990,108936
+18059,Indiana,Hancock,1990,45527
+18061,Indiana,Harrison,1990,29890
+18063,Indiana,Hendricks,1990,75717
+18065,Indiana,Henry,1990,48139
+18067,Indiana,Howard,1990,80827
+18069,Indiana,Huntington,1990,35427
+18071,Indiana,Jackson,1990,37730
+18073,Indiana,Jasper,1990,24960
+18075,Indiana,Jay,1990,21512
+18077,Indiana,Jefferson,1990,29797
+18079,Indiana,Jennings,1990,23661
+18081,Indiana,Johnson,1990,88109
+18083,Indiana,Knox,1990,39884
+18085,Indiana,Kosciusko,1990,65294
+18091,Indiana,La Porte,1990,107066
+18087,Indiana,Lagrange,1990,29477
+18089,Indiana,Lake,1990,475594
+18093,Indiana,Lawrence,1990,42836
+18095,Indiana,Madison,1990,130669
+18097,Indiana,Marion,1990,797159
+18099,Indiana,Marshall,1990,42182
+18101,Indiana,Martin,1990,10369
+18103,Indiana,Miami,1990,36897
+18105,Indiana,Monroe,1990,108978
+18107,Indiana,Montgomery,1990,34436
+18109,Indiana,Morgan,1990,55920
+18111,Indiana,Newton,1990,13551
+18113,Indiana,Noble,1990,37877
+18115,Indiana,Ohio,1990,5315
+18117,Indiana,Orange,1990,18409
+18119,Indiana,Owen,1990,17281
+18121,Indiana,Parke,1990,15410
+18123,Indiana,Perry,1990,19107
+18125,Indiana,Pike,1990,12509
+18127,Indiana,Porter,1990,128932
+18129,Indiana,Posey,1990,25968
+18131,Indiana,Pulaski,1990,12643
+18133,Indiana,Putnam,1990,30315
+18135,Indiana,Randolph,1990,27148
+18137,Indiana,Ripley,1990,24616
+18139,Indiana,Rush,1990,18129
+18143,Indiana,Scott,1990,20991
+18145,Indiana,Shelby,1990,40307
+18147,Indiana,Spencer,1990,19490
+18141,Indiana,St. Joseph,1990,247052
+18149,Indiana,Starke,1990,22747
+18151,Indiana,Steuben,1990,27446
+18153,Indiana,Sullivan,1990,18993
+18155,Indiana,Switzerland,1990,7738
+18157,Indiana,Tippecanoe,1990,130598
+18159,Indiana,Tipton,1990,16119
+18161,Indiana,Union,1990,6976
+18163,Indiana,Vanderburgh,1990,165058
+18165,Indiana,Vermillion,1990,16773
+18167,Indiana,Vigo,1990,106107
+18169,Indiana,Wabash,1990,35069
+18171,Indiana,Warren,1990,8176
+18173,Indiana,Warrick,1990,44920
+18175,Indiana,Washington,1990,23717
+18177,Indiana,Wayne,1990,71951
+18179,Indiana,Wells,1990,25948
+18181,Indiana,White,1990,23265
+18183,Indiana,Whitley,1990,27651
+19001,Iowa,Adair,1990,8409
+19003,Iowa,Adams,1990,4866
+19005,Iowa,Allamakee,1990,13855
+19007,Iowa,Appanoose,1990,13743
+19009,Iowa,Audubon,1990,7334
+19011,Iowa,Benton,1990,22429
+19013,Iowa,Black Hawk,1990,123798
+19015,Iowa,Boone,1990,25186
+19017,Iowa,Bremer,1990,22813
+19019,Iowa,Buchanan,1990,20844
+19021,Iowa,Buena Vista,1990,19965
+19023,Iowa,Butler,1990,15731
+19025,Iowa,Calhoun,1990,11508
+19027,Iowa,Carroll,1990,21423
+19029,Iowa,Cass,1990,15128
+19031,Iowa,Cedar,1990,17381
+19033,Iowa,Cerro Gordo,1990,46733
+19035,Iowa,Cherokee,1990,14098
+19037,Iowa,Chickasaw,1990,13295
+19039,Iowa,Clarke,1990,8287
+19041,Iowa,Clay,1990,17585
+19043,Iowa,Clayton,1990,19054
+19045,Iowa,Clinton,1990,51040
+19047,Iowa,Crawford,1990,16775
+19049,Iowa,Dallas,1990,29755
+19051,Iowa,Davis,1990,8312
+19053,Iowa,Decatur,1990,8338
+19055,Iowa,Delaware,1990,18035
+19057,Iowa,Des Moines,1990,42614
+19059,Iowa,Dickinson,1990,14909
+19061,Iowa,Dubuque,1990,86403
+19063,Iowa,Emmet,1990,11569
+19065,Iowa,Fayette,1990,21843
+19067,Iowa,Floyd,1990,17058
+19069,Iowa,Franklin,1990,11364
+19071,Iowa,Fremont,1990,8226
+19073,Iowa,Greene,1990,10045
+19075,Iowa,Grundy,1990,12029
+19077,Iowa,Guthrie,1990,10935
+19079,Iowa,Hamilton,1990,16071
+19081,Iowa,Hancock,1990,12638
+19083,Iowa,Hardin,1990,19094
+19085,Iowa,Harrison,1990,14730
+19087,Iowa,Henry,1990,19226
+19089,Iowa,Howard,1990,9809
+19091,Iowa,Humboldt,1990,10756
+19093,Iowa,Ida,1990,8365
+19095,Iowa,Iowa,1990,14630
+19097,Iowa,Jackson,1990,19950
+19099,Iowa,Jasper,1990,34795
+19101,Iowa,Jefferson,1990,16310
+19103,Iowa,Johnson,1990,96119
+19105,Iowa,Jones,1990,19444
+19107,Iowa,Keokuk,1990,11624
+19109,Iowa,Kossuth,1990,18591
+19111,Iowa,Lee,1990,38687
+19113,Iowa,Linn,1990,168767
+19115,Iowa,Louisa,1990,11592
+19117,Iowa,Lucas,1990,9070
+19119,Iowa,Lyon,1990,11952
+19121,Iowa,Madison,1990,12483
+19123,Iowa,Mahaska,1990,21522
+19125,Iowa,Marion,1990,30001
+19127,Iowa,Marshall,1990,38276
+19129,Iowa,Mills,1990,13202
+19131,Iowa,Mitchell,1990,10928
+19133,Iowa,Monona,1990,10034
+19135,Iowa,Monroe,1990,8114
+19137,Iowa,Montgomery,1990,12076
+19139,Iowa,Muscatine,1990,39907
+19141,Iowa,O'Brien,1990,15444
+19143,Iowa,Osceola,1990,7267
+19145,Iowa,Page,1990,16870
+19147,Iowa,Palo Alto,1990,10669
+19149,Iowa,Plymouth,1990,23388
+19151,Iowa,Pocahontas,1990,9525
+19153,Iowa,Polk,1990,327140
+19155,Iowa,Pottawattamie,1990,82628
+19157,Iowa,Poweshiek,1990,19033
+19159,Iowa,Ringgold,1990,5420
+19161,Iowa,Sac,1990,12324
+19163,Iowa,Scott,1990,150979
+19165,Iowa,Shelby,1990,13230
+19167,Iowa,Sioux,1990,29903
+19169,Iowa,Story,1990,74252
+19171,Iowa,Tama,1990,17419
+19173,Iowa,Taylor,1990,7114
+19175,Iowa,Union,1990,12750
+19177,Iowa,Van Buren,1990,7676
+19179,Iowa,Wapello,1990,35687
+19181,Iowa,Warren,1990,36033
+19183,Iowa,Washington,1990,19612
+19185,Iowa,Wayne,1990,7067
+19187,Iowa,Webster,1990,40342
+19189,Iowa,Winnebago,1990,12122
+19191,Iowa,Winneshiek,1990,20847
+19193,Iowa,Woodbury,1990,98276
+19195,Iowa,Worth,1990,7991
+19197,Iowa,Wright,1990,14269
+20001,Kansas,Allen,1990,14638
+20003,Kansas,Anderson,1990,7803
+20005,Kansas,Atchison,1990,16932
+20007,Kansas,Barber,1990,5874
+20009,Kansas,Barton,1990,29382
+20011,Kansas,Bourbon,1990,14966
+20013,Kansas,Brown,1990,11128
+20015,Kansas,Butler,1990,50580
+20017,Kansas,Chase,1990,3021
+20019,Kansas,Chautauqua,1990,4407
+20021,Kansas,Cherokee,1990,21374
+20023,Kansas,Cheyenne,1990,3243
+20025,Kansas,Clark,1990,2418
+20027,Kansas,Clay,1990,9158
+20029,Kansas,Cloud,1990,11023
+20031,Kansas,Coffey,1990,8404
+20033,Kansas,Comanche,1990,2313
+20035,Kansas,Cowley,1990,36915
+20037,Kansas,Crawford,1990,35568
+20039,Kansas,Decatur,1990,4021
+20041,Kansas,Dickinson,1990,18958
+20043,Kansas,Doniphan,1990,8134
+20045,Kansas,Douglas,1990,81798
+20047,Kansas,Edwards,1990,3787
+20049,Kansas,Elk,1990,3327
+20051,Kansas,Ellis,1990,26004
+20053,Kansas,Ellsworth,1990,6586
+20055,Kansas,Finney,1990,33070
+20057,Kansas,Ford,1990,27463
+20059,Kansas,Franklin,1990,21994
+20061,Kansas,Geary,1990,30453
+20063,Kansas,Gove,1990,3231
+20065,Kansas,Graham,1990,3543
+20067,Kansas,Grant,1990,7159
+20069,Kansas,Gray,1990,5396
+20071,Kansas,Greeley,1990,1774
+20073,Kansas,Greenwood,1990,7847
+20075,Kansas,Hamilton,1990,2388
+20077,Kansas,Harper,1990,7124
+20079,Kansas,Harvey,1990,31028
+20081,Kansas,Haskell,1990,3886
+20083,Kansas,Hodgeman,1990,2177
+20085,Kansas,Jackson,1990,11525
+20087,Kansas,Jefferson,1990,15905
+20089,Kansas,Jewell,1990,4251
+20091,Kansas,Johnson,1990,355054
+20093,Kansas,Kearny,1990,4027
+20095,Kansas,Kingman,1990,8292
+20097,Kansas,Kiowa,1990,3660
+20099,Kansas,Labette,1990,23693
+20101,Kansas,Lane,1990,2375
+20103,Kansas,Leavenworth,1990,64371
+20105,Kansas,Lincoln,1990,3653
+20107,Kansas,Linn,1990,8254
+20109,Kansas,Logan,1990,3081
+20111,Kansas,Lyon,1990,34732
+20115,Kansas,Marion,1990,12888
+20117,Kansas,Marshall,1990,11705
+20113,Kansas,McPherson,1990,27268
+20119,Kansas,Meade,1990,4247
+20121,Kansas,Miami,1990,23466
+20123,Kansas,Mitchell,1990,7203
+20125,Kansas,Montgomery,1990,38816
+20127,Kansas,Morris,1990,6198
+20129,Kansas,Morton,1990,3480
+20131,Kansas,Nemaha,1990,10446
+20133,Kansas,Neosho,1990,17035
+20135,Kansas,Ness,1990,4033
+20137,Kansas,Norton,1990,5947
+20139,Kansas,Osage,1990,15248
+20141,Kansas,Osborne,1990,4867
+20143,Kansas,Ottawa,1990,5634
+20145,Kansas,Pawnee,1990,7555
+20147,Kansas,Phillips,1990,6590
+20149,Kansas,Pottawatomie,1990,16128
+20151,Kansas,Pratt,1990,9702
+20153,Kansas,Rawlins,1990,3404
+20155,Kansas,Reno,1990,62389
+20157,Kansas,Republic,1990,6482
+20159,Kansas,Rice,1990,10610
+20161,Kansas,Riley,1990,67139
+20163,Kansas,Rooks,1990,6039
+20165,Kansas,Rush,1990,3842
+20167,Kansas,Russell,1990,7835
+20169,Kansas,Saline,1990,49301
+20171,Kansas,Scott,1990,5289
+20173,Kansas,Sedgwick,1990,403662
+20175,Kansas,Seward,1990,18743
+20177,Kansas,Shawnee,1990,160976
+20179,Kansas,Sheridan,1990,3043
+20181,Kansas,Sherman,1990,6926
+20183,Kansas,Smith,1990,5078
+20185,Kansas,Stafford,1990,5365
+20187,Kansas,Stanton,1990,2333
+20189,Kansas,Stevens,1990,5048
+20191,Kansas,Sumner,1990,25841
+20193,Kansas,Thomas,1990,8258
+20195,Kansas,Trego,1990,3694
+20197,Kansas,Wabaunsee,1990,6603
+20199,Kansas,Wallace,1990,1821
+20201,Kansas,Washington,1990,7073
+20203,Kansas,Wichita,1990,2758
+20205,Kansas,Wilson,1990,10289
+20207,Kansas,Woodson,1990,4116
+20209,Kansas,Wyandotte,1990,161993
+21001,Kentucky,Adair,1990,15360
+21003,Kentucky,Allen,1990,14628
+21005,Kentucky,Anderson,1990,14571
+21007,Kentucky,Ballard,1990,7902
+21009,Kentucky,Barren,1990,34001
+21011,Kentucky,Bath,1990,9692
+21013,Kentucky,Bell,1990,31506
+21015,Kentucky,Boone,1990,57589
+21017,Kentucky,Bourbon,1990,19236
+21019,Kentucky,Boyd,1990,51150
+21021,Kentucky,Boyle,1990,25641
+21023,Kentucky,Bracken,1990,7766
+21025,Kentucky,Breathitt,1990,15703
+21027,Kentucky,Breckinridge,1990,16312
+21029,Kentucky,Bullitt,1990,47567
+21031,Kentucky,Butler,1990,11245
+21033,Kentucky,Caldwell,1990,13232
+21035,Kentucky,Calloway,1990,30735
+21037,Kentucky,Campbell,1990,83866
+21039,Kentucky,Carlisle,1990,5238
+21041,Kentucky,Carroll,1990,9292
+21043,Kentucky,Carter,1990,24340
+21045,Kentucky,Casey,1990,14211
+21047,Kentucky,Christian,1990,68941
+21049,Kentucky,Clark,1990,29496
+21051,Kentucky,Clay,1990,21746
+21053,Kentucky,Clinton,1990,9135
+21055,Kentucky,Crittenden,1990,9196
+21057,Kentucky,Cumberland,1990,6784
+21059,Kentucky,Daviess,1990,87189
+21061,Kentucky,Edmonson,1990,10357
+21063,Kentucky,Elliott,1990,6455
+21065,Kentucky,Estill,1990,14614
+21067,Kentucky,Fayette,1990,225366
+21069,Kentucky,Fleming,1990,12292
+21071,Kentucky,Floyd,1990,43586
+21073,Kentucky,Franklin,1990,43781
+21075,Kentucky,Fulton,1990,8271
+21077,Kentucky,Gallatin,1990,5393
+21079,Kentucky,Garrard,1990,11579
+21081,Kentucky,Grant,1990,15737
+21083,Kentucky,Graves,1990,33550
+21085,Kentucky,Grayson,1990,21050
+21087,Kentucky,Green,1990,10371
+21089,Kentucky,Greenup,1990,36742
+21091,Kentucky,Hancock,1990,7864
+21093,Kentucky,Hardin,1990,89240
+21095,Kentucky,Harlan,1990,36574
+21097,Kentucky,Harrison,1990,16248
+21099,Kentucky,Hart,1990,14890
+21101,Kentucky,Henderson,1990,43044
+21103,Kentucky,Henry,1990,12823
+21105,Kentucky,Hickman,1990,5566
+21107,Kentucky,Hopkins,1990,46126
+21109,Kentucky,Jackson,1990,11955
+21111,Kentucky,Jefferson,1990,664937
+21113,Kentucky,Jessamine,1990,30508
+21115,Kentucky,Johnson,1990,23248
+21117,Kentucky,Kenton,1990,142031
+21119,Kentucky,Knott,1990,17906
+21121,Kentucky,Knox,1990,29676
+21123,Kentucky,Larue,1990,11679
+21125,Kentucky,Laurel,1990,43438
+21127,Kentucky,Lawrence,1990,13998
+21129,Kentucky,Lee,1990,7422
+21131,Kentucky,Leslie,1990,13642
+21133,Kentucky,Letcher,1990,27000
+21135,Kentucky,Lewis,1990,13029
+21137,Kentucky,Lincoln,1990,20045
+21139,Kentucky,Livingston,1990,9062
+21141,Kentucky,Logan,1990,24416
+21143,Kentucky,Lyon,1990,6624
+21151,Kentucky,Madison,1990,57508
+21153,Kentucky,Magoffin,1990,13077
+21155,Kentucky,Marion,1990,16499
+21157,Kentucky,Marshall,1990,27205
+21159,Kentucky,Martin,1990,12526
+21161,Kentucky,Mason,1990,16666
+21145,Kentucky,McCracken,1990,62879
+21147,Kentucky,McCreary,1990,15603
+21149,Kentucky,McLean,1990,9628
+21163,Kentucky,Meade,1990,24170
+21165,Kentucky,Menifee,1990,5092
+21167,Kentucky,Mercer,1990,19148
+21169,Kentucky,Metcalfe,1990,8963
+21171,Kentucky,Monroe,1990,11401
+21173,Kentucky,Montgomery,1990,19561
+21175,Kentucky,Morgan,1990,11648
+21177,Kentucky,Muhlenberg,1990,31318
+21179,Kentucky,Nelson,1990,29710
+21181,Kentucky,Nicholas,1990,6725
+21183,Kentucky,Ohio,1990,21105
+21185,Kentucky,Oldham,1990,33263
+21187,Kentucky,Owen,1990,9035
+21189,Kentucky,Owsley,1990,5036
+21191,Kentucky,Pendleton,1990,12036
+21193,Kentucky,Perry,1990,30283
+21195,Kentucky,Pike,1990,72583
+21197,Kentucky,Powell,1990,11686
+21199,Kentucky,Pulaski,1990,49489
+21201,Kentucky,Robertson,1990,2124
+21203,Kentucky,Rockcastle,1990,14803
+21205,Kentucky,Rowan,1990,20353
+21207,Kentucky,Russell,1990,14716
+21209,Kentucky,Scott,1990,23867
+21211,Kentucky,Shelby,1990,24824
+21213,Kentucky,Simpson,1990,15145
+21215,Kentucky,Spencer,1990,6801
+21217,Kentucky,Taylor,1990,21146
+21219,Kentucky,Todd,1990,10940
+21221,Kentucky,Trigg,1990,10361
+21223,Kentucky,Trimble,1990,6090
+21225,Kentucky,Union,1990,16557
+21227,Kentucky,Warren,1990,76673
+21229,Kentucky,Washington,1990,10441
+21231,Kentucky,Wayne,1990,17468
+21233,Kentucky,Webster,1990,13955
+21235,Kentucky,Whitley,1990,33326
+21237,Kentucky,Wolfe,1990,6503
+21239,Kentucky,Woodford,1990,19955
+22001,Louisiana,Acadia,1990,55882
+22003,Louisiana,Allen,1990,21226
+22005,Louisiana,Ascension,1990,58214
+22007,Louisiana,Assumption,1990,22753
+22009,Louisiana,Avoyelles,1990,39159
+22011,Louisiana,Beauregard,1990,30083
+22013,Louisiana,Bienville,1990,15979
+22015,Louisiana,Bossier,1990,86088
+22017,Louisiana,Caddo,1990,248253
+22019,Louisiana,Calcasieu,1990,168134
+22021,Louisiana,Caldwell,1990,9810
+22023,Louisiana,Cameron,1990,9260
+22025,Louisiana,Catahoula,1990,11065
+22027,Louisiana,Claiborne,1990,17405
+22029,Louisiana,Concordia,1990,20828
+22031,Louisiana,De Soto,1990,25346
+22033,Louisiana,E. Baton Rouge,1990,380105
+22035,Louisiana,E. Carroll,1990,9709
+22037,Louisiana,E. Feliciana,1990,19211
+22039,Louisiana,Evangeline,1990,33274
+22041,Louisiana,Franklin,1990,22387
+22043,Louisiana,Grant,1990,17526
+22045,Louisiana,Iberia,1990,68297
+22047,Louisiana,Iberville,1990,31049
+22049,Louisiana,Jackson,1990,15705
+22051,Louisiana,Jefferson,1990,448306
+22053,Louisiana,Jefferson Davis,1990,30722
+22059,Louisiana,La Salle,1990,13662
+22055,Louisiana,Lafayette,1990,164762
+22057,Louisiana,Lafourche,1990,85860
+22061,Louisiana,Lincoln,1990,41745
+22063,Louisiana,Livingston,1990,70526
+22065,Louisiana,Madison,1990,12463
+22067,Louisiana,Morehouse,1990,31938
+22069,Louisiana,Natchitoches,1990,36689
+22071,Louisiana,Orleans,1990,496938
+22073,Louisiana,Ouachita,1990,142191
+22075,Louisiana,Plaquemines,1990,25575
+22077,Louisiana,Pointe Coupee,1990,22540
+22079,Louisiana,Rapides,1990,131556
+22081,Louisiana,Red River,1990,9387
+22083,Louisiana,Richland,1990,20629
+22085,Louisiana,Sabine,1990,22646
+22087,Louisiana,St. Bernard,1990,66631
+22089,Louisiana,St. Charles,1990,42437
+22091,Louisiana,St. Helena,1990,9874
+22093,Louisiana,St. James,1990,20879
+22095,Louisiana,St. John the Baptist,1990,39996
+22097,Louisiana,St. Landry,1990,80331
+22099,Louisiana,St. Martin,1990,43978
+22101,Louisiana,St. Mary,1990,58086
+22103,Louisiana,St. Tammany,1990,144508
+22105,Louisiana,Tangipahoa,1990,85709
+22107,Louisiana,Tensas,1990,7103
+22109,Louisiana,Terrebonne,1990,96982
+22111,Louisiana,Union,1990,20690
+22113,Louisiana,Vermilion,1990,50055
+22115,Louisiana,Vernon,1990,61961
+22121,Louisiana,W. Baton Rouge,1990,19419
+22123,Louisiana,W. Carroll,1990,12093
+22125,Louisiana,W. Feliciana,1990,12915
+22117,Louisiana,Washington,1990,43185
+22119,Louisiana,Webster,1990,41989
+22127,Louisiana,Winn,1990,16269
+23001,Maine,Androscoggin,1990,105259
+23003,Maine,Aroostook,1990,86936
+23005,Maine,Cumberland,1990,243135
+23007,Maine,Franklin,1990,29008
+23009,Maine,Hancock,1990,46948
+23011,Maine,Kennebec,1990,115904
+23013,Maine,Knox,1990,36310
+23015,Maine,Lincoln,1990,30357
+23017,Maine,Oxford,1990,52602
+23019,Maine,Penobscot,1990,146601
+23021,Maine,Piscataquis,1990,18653
+23023,Maine,Sagadahoc,1990,33535
+23025,Maine,Somerset,1990,49767
+23027,Maine,Waldo,1990,33018
+23029,Maine,Washington,1990,35308
+23031,Maine,York,1990,164587
+24001,Maryland,Allegany,1990,74946
+24003,Maryland,Anne Arundel,1990,427239
+24005,Maryland,Baltimore,1990,692134
+24510,Maryland,Baltimore (city),1990,736014
+24009,Maryland,Calvert,1990,51372
+24011,Maryland,Caroline,1990,27035
+24013,Maryland,Carroll,1990,123372
+24015,Maryland,Cecil,1990,71347
+24017,Maryland,Charles,1990,101154
+24019,Maryland,Dorchester,1990,30236
+24021,Maryland,Frederick,1990,150208
+24023,Maryland,Garrett,1990,28138
+24025,Maryland,Harford,1990,182132
+24027,Maryland,Howard,1990,187328
+24029,Maryland,Kent,1990,17842
+24031,Maryland,Montgomery,1990,757027
+24033,Maryland,Prince George's,1990,729268
+24035,Maryland,Queen Anne's,1990,33953
+24039,Maryland,Somerset,1990,23440
+24037,Maryland,St. Mary's,1990,75974
+24041,Maryland,Talbot,1990,30549
+24043,Maryland,Washington,1990,121393
+24045,Maryland,Wicomico,1990,74339
+24047,Maryland,Worcester,1990,35028
+25001,Massachusetts,Barnstable,1990,186605
+25003,Massachusetts,Berkshire,1990,139352
+25005,Massachusetts,Bristol,1990,506325
+25007,Massachusetts,Dukes,1990,11639
+25009,Massachusetts,Essex,1990,670080
+25011,Massachusetts,Franklin,1990,70092
+25013,Massachusetts,Hampden,1990,456310
+25015,Massachusetts,Hampshire,1990,146568
+25017,Massachusetts,Middlesex,1990,1398468
+25019,Massachusetts,Nantucket,1990,6012
+25021,Massachusetts,Norfolk,1990,616087
+25023,Massachusetts,Plymouth,1990,435276
+25025,Massachusetts,Suffolk,1990,663906
+25027,Massachusetts,Worcester,1990,709705
+26001,Michigan,Alcona,1990,10145
+26003,Michigan,Alger,1990,8972
+26005,Michigan,Allegan,1990,90509
+26007,Michigan,Alpena,1990,30605
+26009,Michigan,Antrim,1990,18185
+26011,Michigan,Arenac,1990,14931
+26013,Michigan,Baraga,1990,7954
+26015,Michigan,Barry,1990,50057
+26017,Michigan,Bay,1990,111723
+26019,Michigan,Benzie,1990,12200
+26021,Michigan,Berrien,1990,161378
+26023,Michigan,Branch,1990,41502
+26025,Michigan,Calhoun,1990,135982
+26027,Michigan,Cass,1990,49477
+26029,Michigan,Charlevoix,1990,21468
+26031,Michigan,Cheboygan,1990,21398
+26033,Michigan,Chippewa,1990,34604
+26035,Michigan,Clare,1990,24952
+26037,Michigan,Clinton,1990,57883
+26039,Michigan,Crawford,1990,12260
+26041,Michigan,Delta,1990,37780
+26043,Michigan,Dickinson,1990,26831
+26045,Michigan,Eaton,1990,92879
+26047,Michigan,Emmet,1990,25040
+26049,Michigan,Genesee,1990,430459
+26051,Michigan,Gladwin,1990,21896
+26053,Michigan,Gogebic,1990,18052
+26055,Michigan,Grand Traverse,1990,64273
+26057,Michigan,Gratiot,1990,38982
+26059,Michigan,Hillsdale,1990,43431
+26061,Michigan,Houghton,1990,35446
+26063,Michigan,Huron,1990,34951
+26065,Michigan,Ingham,1990,281912
+26067,Michigan,Ionia,1990,57024
+26069,Michigan,Iosco,1990,30209
+26071,Michigan,Iron,1990,13175
+26073,Michigan,Isabella,1990,54624
+26075,Michigan,Jackson,1990,149756
+26077,Michigan,Kalamazoo,1990,223411
+26079,Michigan,Kalkaska,1990,13497
+26081,Michigan,Kent,1990,500631
+26083,Michigan,Keweenaw,1990,1701
+26085,Michigan,Lake,1990,8583
+26087,Michigan,Lapeer,1990,74768
+26089,Michigan,Leelanau,1990,16527
+26091,Michigan,Lenawee,1990,91476
+26093,Michigan,Livingston,1990,115645
+26095,Michigan,Luce,1990,5763
+26097,Michigan,Mackinac,1990,10674
+26099,Michigan,Macomb,1990,717400
+26101,Michigan,Manistee,1990,21265
+26103,Michigan,Marquette,1990,70887
+26105,Michigan,Mason,1990,25537
+26107,Michigan,Mecosta,1990,37308
+26109,Michigan,Menominee,1990,24920
+26111,Michigan,Midland,1990,75651
+26113,Michigan,Missaukee,1990,12147
+26115,Michigan,Monroe,1990,133600
+26117,Michigan,Montcalm,1990,53059
+26119,Michigan,Montmorency,1990,8936
+26121,Michigan,Muskegon,1990,158983
+26123,Michigan,Newaygo,1990,38202
+26125,Michigan,Oakland,1990,1083592
+26127,Michigan,Oceana,1990,22454
+26129,Michigan,Ogemaw,1990,18681
+26131,Michigan,Ontonagon,1990,8854
+26133,Michigan,Osceola,1990,20146
+26135,Michigan,Oscoda,1990,7842
+26137,Michigan,Otsego,1990,17957
+26139,Michigan,Ottawa,1990,187768
+26141,Michigan,Presque Isle,1990,13743
+26143,Michigan,Roscommon,1990,19776
+26145,Michigan,Saginaw,1990,211946
+26151,Michigan,Sanilac,1990,39928
+26153,Michigan,Schoolcraft,1990,8302
+26155,Michigan,Shiawassee,1990,69770
+26147,Michigan,St. Clair,1990,145607
+26149,Michigan,St. Joseph,1990,58913
+26157,Michigan,Tuscola,1990,55498
+26159,Michigan,Van Buren,1990,70060
+26161,Michigan,Washtenaw,1990,282937
+26163,Michigan,Wayne,1990,2111687
+26165,Michigan,Wexford,1990,26360
+27001,Minnesota,Aitkin,1990,12425
+27003,Minnesota,Anoka,1990,243641
+27005,Minnesota,Becker,1990,27881
+27007,Minnesota,Beltrami,1990,34384
+27009,Minnesota,Benton,1990,30185
+27011,Minnesota,Big Stone,1990,6285
+27013,Minnesota,Blue Earth,1990,54044
+27015,Minnesota,Brown,1990,26984
+27017,Minnesota,Carlton,1990,29259
+27019,Minnesota,Carver,1990,47915
+27021,Minnesota,Cass,1990,21791
+27023,Minnesota,Chippewa,1990,13228
+27025,Minnesota,Chisago,1990,30521
+27027,Minnesota,Clay,1990,50422
+27029,Minnesota,Clearwater,1990,8309
+27031,Minnesota,Cook,1990,3868
+27033,Minnesota,Cottonwood,1990,12694
+27035,Minnesota,Crow Wing,1990,44249
+27037,Minnesota,Dakota,1990,275227
+27039,Minnesota,Dodge,1990,15731
+27041,Minnesota,Douglas,1990,28674
+27043,Minnesota,Faribault,1990,16937
+27045,Minnesota,Fillmore,1990,20777
+27047,Minnesota,Freeborn,1990,33060
+27049,Minnesota,Goodhue,1990,40690
+27051,Minnesota,Grant,1990,6246
+27053,Minnesota,Hennepin,1990,1032431
+27055,Minnesota,Houston,1990,18497
+27057,Minnesota,Hubbard,1990,14939
+27059,Minnesota,Isanti,1990,25921
+27061,Minnesota,Itasca,1990,40863
+27063,Minnesota,Jackson,1990,11677
+27065,Minnesota,Kanabec,1990,12802
+27067,Minnesota,Kandiyohi,1990,38761
+27069,Minnesota,Kittson,1990,5767
+27071,Minnesota,Koochiching,1990,16299
+27073,Minnesota,Lac qui Parle,1990,8924
+27075,Minnesota,Lake,1990,10415
+27077,Minnesota,Lake of the Woods,1990,4076
+27079,Minnesota,Le Sueur,1990,23239
+27081,Minnesota,Lincoln,1990,6890
+27083,Minnesota,Lyon,1990,24789
+27087,Minnesota,Mahnomen,1990,5044
+27089,Minnesota,Marshall,1990,10993
+27091,Minnesota,Martin,1990,22914
+27085,Minnesota,McLeod,1990,32030
+27093,Minnesota,Meeker,1990,20846
+27095,Minnesota,Mille Lacs,1990,18670
+27097,Minnesota,Morrison,1990,29604
+27099,Minnesota,Mower,1990,37385
+27101,Minnesota,Murray,1990,9660
+27103,Minnesota,Nicollet,1990,28076
+27105,Minnesota,Nobles,1990,20098
+27107,Minnesota,Norman,1990,7975
+27109,Minnesota,Olmsted,1990,106470
+27111,Minnesota,Otter Tail,1990,50714
+27113,Minnesota,Pennington,1990,13306
+27115,Minnesota,Pine,1990,21264
+27117,Minnesota,Pipestone,1990,10491
+27119,Minnesota,Polk,1990,32498
+27121,Minnesota,Pope,1990,10745
+27123,Minnesota,Ramsey,1990,485765
+27125,Minnesota,Red Lake,1990,4525
+27127,Minnesota,Redwood,1990,17254
+27129,Minnesota,Renville,1990,17673
+27131,Minnesota,Rice,1990,49183
+27133,Minnesota,Rock,1990,9806
+27135,Minnesota,Roseau,1990,15026
+27139,Minnesota,Scott,1990,57846
+27141,Minnesota,Sherburne,1990,41945
+27143,Minnesota,Sibley,1990,14366
+27137,Minnesota,St. Louis,1990,198213
+27145,Minnesota,Stearns,1990,118791
+27147,Minnesota,Steele,1990,30729
+27149,Minnesota,Stevens,1990,10634
+27151,Minnesota,Swift,1990,10724
+27153,Minnesota,Todd,1990,23363
+27155,Minnesota,Traverse,1990,4463
+27157,Minnesota,Wabasha,1990,19744
+27159,Minnesota,Wadena,1990,13154
+27161,Minnesota,Waseca,1990,18079
+27163,Minnesota,Washington,1990,145896
+27165,Minnesota,Watonwan,1990,11682
+27167,Minnesota,Wilkin,1990,7516
+27169,Minnesota,Winona,1990,47828
+27171,Minnesota,Wright,1990,68710
+27173,Minnesota,Yellow Medicine,1990,11684
+28001,Mississippi,Adams,1990,35356
+28003,Mississippi,Alcorn,1990,31722
+28005,Mississippi,Amite,1990,13328
+28007,Mississippi,Attala,1990,18481
+28009,Mississippi,Benton,1990,8046
+28011,Mississippi,Bolivar,1990,41875
+28013,Mississippi,Calhoun,1990,14908
+28015,Mississippi,Carroll,1990,9237
+28017,Mississippi,Chickasaw,1990,18085
+28019,Mississippi,Choctaw,1990,9071
+28021,Mississippi,Claiborne,1990,11370
+28023,Mississippi,Clarke,1990,17313
+28025,Mississippi,Clay,1990,21120
+28027,Mississippi,Coahoma,1990,31665
+28029,Mississippi,Copiah,1990,27592
+28031,Mississippi,Covington,1990,16527
+28033,Mississippi,DeSoto,1990,67910
+28035,Mississippi,Forrest,1990,68314
+28037,Mississippi,Franklin,1990,8377
+28039,Mississippi,George,1990,16673
+28041,Mississippi,Greene,1990,10220
+28043,Mississippi,Grenada,1990,21555
+28045,Mississippi,Hancock,1990,31760
+28047,Mississippi,Harrison,1990,165365
+28049,Mississippi,Hinds,1990,254441
+28051,Mississippi,Holmes,1990,21604
+28053,Mississippi,Humphreys,1990,12134
+28055,Mississippi,Issaquena,1990,1909
+28057,Mississippi,Itawamba,1990,20017
+28059,Mississippi,Jackson,1990,115243
+28061,Mississippi,Jasper,1990,17114
+28063,Mississippi,Jefferson,1990,8653
+28065,Mississippi,Jefferson Davis,1990,14051
+28067,Mississippi,Jones,1990,62031
+28069,Mississippi,Kemper,1990,10356
+28071,Mississippi,Lafayette,1990,31826
+28073,Mississippi,Lamar,1990,30424
+28075,Mississippi,Lauderdale,1990,75555
+28077,Mississippi,Lawrence,1990,12458
+28079,Mississippi,Leake,1990,18436
+28081,Mississippi,Lee,1990,65581
+28083,Mississippi,Leflore,1990,37341
+28085,Mississippi,Lincoln,1990,30278
+28087,Mississippi,Lowndes,1990,59308
+28089,Mississippi,Madison,1990,53794
+28091,Mississippi,Marion,1990,25544
+28093,Mississippi,Marshall,1990,30361
+28095,Mississippi,Monroe,1990,36582
+28097,Mississippi,Montgomery,1990,12388
+28099,Mississippi,Neshoba,1990,24800
+28101,Mississippi,Newton,1990,20291
+28103,Mississippi,Noxubee,1990,12604
+28105,Mississippi,Oktibbeha,1990,38375
+28107,Mississippi,Panola,1990,29996
+28109,Mississippi,Pearl River,1990,38714
+28111,Mississippi,Perry,1990,10865
+28113,Mississippi,Pike,1990,36882
+28115,Mississippi,Pontotoc,1990,22237
+28117,Mississippi,Prentiss,1990,23278
+28119,Mississippi,Quitman,1990,10490
+28121,Mississippi,Rankin,1990,87161
+28123,Mississippi,Scott,1990,24137
+28125,Mississippi,Sharkey,1990,7066
+28127,Mississippi,Simpson,1990,23953
+28129,Mississippi,Smith,1990,14798
+28131,Mississippi,Stone,1990,10750
+28133,Mississippi,Sunflower,1990,32867
+28135,Mississippi,Tallahatchie,1990,15210
+28137,Mississippi,Tate,1990,21432
+28139,Mississippi,Tippah,1990,19523
+28141,Mississippi,Tishomingo,1990,17683
+28143,Mississippi,Tunica,1990,8164
+28145,Mississippi,Union,1990,22085
+28147,Mississippi,Walthall,1990,14352
+28149,Mississippi,Warren,1990,47880
+28151,Mississippi,Washington,1990,67935
+28153,Mississippi,Wayne,1990,19517
+28155,Mississippi,Webster,1990,10222
+28157,Mississippi,Wilkinson,1990,9678
+28159,Mississippi,Winston,1990,19433
+28161,Mississippi,Yalobusha,1990,12033
+28163,Mississippi,Yazoo,1990,25506
+29001,Missouri,Adair,1990,24577
+29003,Missouri,Andrew,1990,14632
+29005,Missouri,Atchison,1990,7457
+29007,Missouri,Audrain,1990,23599
+29009,Missouri,Barry,1990,27547
+29011,Missouri,Barton,1990,11312
+29013,Missouri,Bates,1990,15025
+29015,Missouri,Benton,1990,13859
+29017,Missouri,Bollinger,1990,10619
+29019,Missouri,Boone,1990,112379
+29021,Missouri,Buchanan,1990,83083
+29023,Missouri,Butler,1990,38765
+29025,Missouri,Caldwell,1990,8380
+29027,Missouri,Callaway,1990,32809
+29029,Missouri,Camden,1990,27495
+29031,Missouri,Cape Girardeau,1990,61633
+29033,Missouri,Carroll,1990,10748
+29035,Missouri,Carter,1990,5515
+29037,Missouri,Cass,1990,63808
+29039,Missouri,Cedar,1990,12093
+29041,Missouri,Chariton,1990,9202
+29043,Missouri,Christian,1990,32644
+29045,Missouri,Clark,1990,7547
+29047,Missouri,Clay,1990,153411
+29049,Missouri,Clinton,1990,16595
+29051,Missouri,Cole,1990,63579
+29053,Missouri,Cooper,1990,14835
+29055,Missouri,Crawford,1990,19173
+29057,Missouri,Dade,1990,7449
+29059,Missouri,Dallas,1990,12646
+29061,Missouri,Daviess,1990,7865
+29063,Missouri,DeKalb,1990,9967
+29065,Missouri,Dent,1990,13702
+29067,Missouri,Douglas,1990,11876
+29069,Missouri,Dunklin,1990,33112
+29071,Missouri,Franklin,1990,80603
+29073,Missouri,Gasconade,1990,14006
+29075,Missouri,Gentry,1990,6848
+29077,Missouri,Greene,1990,207949
+29079,Missouri,Grundy,1990,10536
+29081,Missouri,Harrison,1990,8469
+29083,Missouri,Henry,1990,20044
+29085,Missouri,Hickory,1990,7335
+29087,Missouri,Holt,1990,6034
+29089,Missouri,Howard,1990,9631
+29091,Missouri,Howell,1990,31447
+29093,Missouri,Iron,1990,10726
+29095,Missouri,Jackson,1990,633232
+29097,Missouri,Jasper,1990,90465
+29099,Missouri,Jefferson,1990,171380
+29101,Missouri,Johnson,1990,42514
+29103,Missouri,Knox,1990,4482
+29105,Missouri,Laclede,1990,27158
+29107,Missouri,Lafayette,1990,31107
+29109,Missouri,Lawrence,1990,30236
+29111,Missouri,Lewis,1990,10233
+29113,Missouri,Lincoln,1990,28892
+29115,Missouri,Linn,1990,13885
+29117,Missouri,Livingston,1990,14592
+29121,Missouri,Macon,1990,15345
+29123,Missouri,Madison,1990,11127
+29125,Missouri,Maries,1990,7976
+29127,Missouri,Marion,1990,27682
+29119,Missouri,McDonald,1990,16938
+29129,Missouri,Mercer,1990,3723
+29131,Missouri,Miller,1990,20700
+29133,Missouri,Mississippi,1990,14442
+29135,Missouri,Moniteau,1990,12298
+29137,Missouri,Monroe,1990,9104
+29139,Missouri,Montgomery,1990,11355
+29141,Missouri,Morgan,1990,15574
+29143,Missouri,New Madrid,1990,20928
+29145,Missouri,Newton,1990,44445
+29147,Missouri,Nodaway,1990,21709
+29149,Missouri,Oregon,1990,9470
+29151,Missouri,Osage,1990,12018
+29153,Missouri,Ozark,1990,8598
+29155,Missouri,Pemiscot,1990,21921
+29157,Missouri,Perry,1990,16648
+29159,Missouri,Pettis,1990,35437
+29161,Missouri,Phelps,1990,35248
+29163,Missouri,Pike,1990,15969
+29165,Missouri,Platte,1990,57867
+29167,Missouri,Polk,1990,21826
+29169,Missouri,Pulaski,1990,41307
+29171,Missouri,Putnam,1990,5079
+29173,Missouri,Ralls,1990,8476
+29175,Missouri,Randolph,1990,24370
+29177,Missouri,Ray,1990,21971
+29179,Missouri,Reynolds,1990,6661
+29181,Missouri,Ripley,1990,12303
+29195,Missouri,Saline,1990,23523
+29197,Missouri,Schuyler,1990,4236
+29199,Missouri,Scotland,1990,4822
+29201,Missouri,Scott,1990,39376
+29203,Missouri,Shannon,1990,7613
+29205,Missouri,Shelby,1990,6942
+29183,Missouri,St. Charles,1990,212907
+29185,Missouri,St. Clair,1990,8457
+29187,Missouri,St. Francois,1990,48904
+29189,Missouri,St. Louis,1990,993529
+29510,Missouri,St. Louis (city),1990,396685
+29186,Missouri,Ste. Genevieve,1990,16037
+29207,Missouri,Stoddard,1990,28895
+29209,Missouri,Stone,1990,19078
+29211,Missouri,Sullivan,1990,6326
+29213,Missouri,Taney,1990,25561
+29215,Missouri,Texas,1990,21476
+29217,Missouri,Vernon,1990,19041
+29219,Missouri,Warren,1990,19534
+29221,Missouri,Washington,1990,20380
+29223,Missouri,Wayne,1990,11543
+29225,Missouri,Webster,1990,23753
+29227,Missouri,Worth,1990,2440
+29229,Missouri,Wright,1990,16758
+30001,Montana,Beaverhead,1990,8424
+30003,Montana,Big Horn,1990,11337
+30005,Montana,Blaine,1990,6728
+30007,Montana,Broadwater,1990,3318
+30009,Montana,Carbon,1990,8080
+30011,Montana,Carter,1990,1503
+30013,Montana,Cascade,1990,77691
+30015,Montana,Chouteau,1990,5452
+30017,Montana,Custer,1990,11697
+30019,Montana,Daniels,1990,2266
+30021,Montana,Dawson,1990,9505
+30023,Montana,Deer Lodge,1990,10278
+30025,Montana,Fallon,1990,3103
+30027,Montana,Fergus,1990,12083
+30029,Montana,Flathead,1990,59218
+30031,Montana,Gallatin,1990,50463
+30033,Montana,Garfield,1990,1589
+30035,Montana,Glacier,1990,12121
+30037,Montana,Golden Valley,1990,912
+30039,Montana,Granite,1990,2548
+30041,Montana,Hill,1990,17654
+30043,Montana,Jefferson,1990,7939
+30045,Montana,Judith Basin,1990,2282
+30047,Montana,Lake,1990,21041
+30049,Montana,Lewis and Clark,1990,47495
+30051,Montana,Liberty,1990,2295
+30053,Montana,Lincoln,1990,17481
+30057,Montana,Madison,1990,5989
+30055,Montana,McCone,1990,2276
+30059,Montana,Meagher,1990,1819
+30061,Montana,Mineral,1990,3315
+30063,Montana,Missoula,1990,78687
+30065,Montana,Musselshell,1990,4106
+30067,Montana,Park,1990,14562
+30069,Montana,Petroleum,1990,519
+30071,Montana,Phillips,1990,5163
+30073,Montana,Pondera,1990,6433
+30075,Montana,Powder River,1990,2090
+30077,Montana,Powell,1990,6620
+30079,Montana,Prairie,1990,1383
+30081,Montana,Ravalli,1990,25010
+30083,Montana,Richland,1990,10716
+30085,Montana,Roosevelt,1990,10999
+30087,Montana,Rosebud,1990,10505
+30089,Montana,Sanders,1990,8669
+30091,Montana,Sheridan,1990,4732
+30093,Montana,Silver Bow,1990,33941
+30095,Montana,Stillwater,1990,6536
+30097,Montana,Sweet Grass,1990,3154
+30099,Montana,Teton,1990,6271
+30101,Montana,Toole,1990,5046
+30103,Montana,Treasure,1990,874
+30105,Montana,Valley,1990,8239
+30107,Montana,Wheatland,1990,2246
+30109,Montana,Wibaux,1990,1191
+30111,Montana,Yellowstone,1990,113419
+30113,Montana,Yellowstone National,1990,52
+31001,Nebraska,Adams,1990,29625
+31003,Nebraska,Antelope,1990,7965
+31005,Nebraska,Arthur,1990,462
+31007,Nebraska,Banner,1990,852
+31009,Nebraska,Blaine,1990,675
+31011,Nebraska,Boone,1990,6667
+31013,Nebraska,Box Butte,1990,13130
+31015,Nebraska,Boyd,1990,2835
+31017,Nebraska,Brown,1990,3657
+31019,Nebraska,Buffalo,1990,37447
+31021,Nebraska,Burt,1990,7868
+31023,Nebraska,Butler,1990,8601
+31025,Nebraska,Cass,1990,21318
+31027,Nebraska,Cedar,1990,10131
+31029,Nebraska,Chase,1990,4381
+31031,Nebraska,Cherry,1990,6307
+31033,Nebraska,Cheyenne,1990,9494
+31035,Nebraska,Clay,1990,7123
+31037,Nebraska,Colfax,1990,9139
+31039,Nebraska,Cuming,1990,10117
+31041,Nebraska,Custer,1990,12270
+31043,Nebraska,Dakota,1990,16742
+31045,Nebraska,Dawes,1990,9021
+31047,Nebraska,Dawson,1990,19940
+31049,Nebraska,Deuel,1990,2237
+31051,Nebraska,Dixon,1990,6143
+31053,Nebraska,Dodge,1990,34500
+31055,Nebraska,Douglas,1990,416444
+31057,Nebraska,Dundy,1990,2582
+31059,Nebraska,Fillmore,1990,7103
+31061,Nebraska,Franklin,1990,3938
+31063,Nebraska,Frontier,1990,3101
+31065,Nebraska,Furnas,1990,5553
+31067,Nebraska,Gage,1990,22794
+31069,Nebraska,Garden,1990,2460
+31071,Nebraska,Garfield,1990,2141
+31073,Nebraska,Gosper,1990,1928
+31075,Nebraska,Grant,1990,769
+31077,Nebraska,Greeley,1990,3006
+31079,Nebraska,Hall,1990,48925
+31081,Nebraska,Hamilton,1990,8862
+31083,Nebraska,Harlan,1990,3810
+31085,Nebraska,Hayes,1990,1222
+31087,Nebraska,Hitchcock,1990,3750
+31089,Nebraska,Holt,1990,12599
+31091,Nebraska,Hooker,1990,793
+31093,Nebraska,Howard,1990,6055
+31095,Nebraska,Jefferson,1990,8759
+31097,Nebraska,Johnson,1990,4673
+31099,Nebraska,Kearney,1990,6629
+31101,Nebraska,Keith,1990,8584
+31103,Nebraska,Keya Paha,1990,1029
+31105,Nebraska,Kimball,1990,4108
+31107,Nebraska,Knox,1990,9534
+31109,Nebraska,Lancaster,1990,213641
+31111,Nebraska,Lincoln,1990,32508
+31113,Nebraska,Logan,1990,878
+31115,Nebraska,Loup,1990,683
+31119,Nebraska,Madison,1990,32655
+31117,Nebraska,McPherson,1990,546
+31121,Nebraska,Merrick,1990,8042
+31123,Nebraska,Morrill,1990,5423
+31125,Nebraska,Nance,1990,4275
+31127,Nebraska,Nemaha,1990,7980
+31129,Nebraska,Nuckolls,1990,5786
+31131,Nebraska,Otoe,1990,14252
+31133,Nebraska,Pawnee,1990,3317
+31135,Nebraska,Perkins,1990,3367
+31137,Nebraska,Phelps,1990,9715
+31139,Nebraska,Pierce,1990,7827
+31141,Nebraska,Platte,1990,29820
+31143,Nebraska,Polk,1990,5675
+31145,Nebraska,Red Willow,1990,11705
+31147,Nebraska,Richardson,1990,9937
+31149,Nebraska,Rock,1990,2019
+31151,Nebraska,Saline,1990,12715
+31153,Nebraska,Sarpy,1990,102583
+31155,Nebraska,Saunders,1990,18285
+31157,Nebraska,Scotts Bluff,1990,36025
+31159,Nebraska,Seward,1990,15450
+31161,Nebraska,Sheridan,1990,6750
+31163,Nebraska,Sherman,1990,3718
+31165,Nebraska,Sioux,1990,1549
+31167,Nebraska,Stanton,1990,6244
+31169,Nebraska,Thayer,1990,6635
+31171,Nebraska,Thomas,1990,851
+31173,Nebraska,Thurston,1990,6936
+31175,Nebraska,Valley,1990,5169
+31177,Nebraska,Washington,1990,16607
+31179,Nebraska,Wayne,1990,9364
+31181,Nebraska,Webster,1990,4279
+31183,Nebraska,Wheeler,1990,948
+31185,Nebraska,York,1990,14428
+32510,Nevada,Carson City,1990,40443
+32001,Nevada,Churchill,1990,17938
+32003,Nevada,Clark,1990,741459
+32005,Nevada,Douglas,1990,27637
+32007,Nevada,Elko,1990,33530
+32009,Nevada,Esmeralda,1990,1344
+32011,Nevada,Eureka,1990,1547
+32013,Nevada,Humboldt,1990,12844
+32015,Nevada,Lander,1990,6266
+32017,Nevada,Lincoln,1990,3775
+32019,Nevada,Lyon,1990,20001
+32021,Nevada,Mineral,1990,6475
+32023,Nevada,Nye,1990,17781
+32027,Nevada,Pershing,1990,4336
+32029,Nevada,Storey,1990,2526
+32031,Nevada,Washoe,1990,254667
+32033,Nevada,White Pine,1990,9264
+33001,New Hampshire,Belknap,1990,49216
+33003,New Hampshire,Carroll,1990,35410
+33005,New Hampshire,Cheshire,1990,70121
+33007,New Hampshire,Coos,1990,34828
+33009,New Hampshire,Grafton,1990,74929
+33011,New Hampshire,Hillsborough,1990,336073
+33013,New Hampshire,Merrimack,1990,120005
+33015,New Hampshire,Rockingham,1990,245845
+33017,New Hampshire,Strafford,1990,104233
+33019,New Hampshire,Sullivan,1990,38592
+34001,New Jersey,Atlantic,1990,224327
+34003,New Jersey,Bergen,1990,825380
+34005,New Jersey,Burlington,1990,395066
+34007,New Jersey,Camden,1990,502824
+34009,New Jersey,Cape May,1990,95089
+34011,New Jersey,Cumberland,1990,138053
+34013,New Jersey,Essex,1990,778206
+34015,New Jersey,Gloucester,1990,230082
+34017,New Jersey,Hudson,1990,553099
+34019,New Jersey,Hunterdon,1990,107776
+34021,New Jersey,Mercer,1990,325824
+34023,New Jersey,Middlesex,1990,671780
+34025,New Jersey,Monmouth,1990,553124
+34027,New Jersey,Morris,1990,421353
+34029,New Jersey,Ocean,1990,433203
+34031,New Jersey,Passaic,1990,453060
+34033,New Jersey,Salem,1990,65294
+34035,New Jersey,Somerset,1990,240279
+34037,New Jersey,Sussex,1990,130943
+34039,New Jersey,Union,1990,493819
+34041,New Jersey,Warren,1990,91607
+35001,New Mexico,Bernalillo,1990,480577
+35003,New Mexico,Catron,1990,2563
+35005,New Mexico,Chaves,1990,57849
+35006,New Mexico,Cibola,1990,23794
+35007,New Mexico,Colfax,1990,12925
+35009,New Mexico,Curry,1990,42207
+35011,New Mexico,DeBaca,1990,2252
+35013,New Mexico,Dona Ana,1990,135510
+35015,New Mexico,Eddy,1990,48605
+35017,New Mexico,Grant,1990,27676
+35019,New Mexico,Guadalupe,1990,4156
+35021,New Mexico,Harding,1990,987
+35023,New Mexico,Hidalgo,1990,5958
+35025,New Mexico,Lea,1990,55765
+35027,New Mexico,Lincoln,1990,12219
+35028,New Mexico,Los Alamos,1990,18115
+35029,New Mexico,Luna,1990,18110
+35031,New Mexico,McKinley,1990,60686
+35033,New Mexico,Mora,1990,4264
+35035,New Mexico,Otero,1990,51928
+35037,New Mexico,Quay,1990,10823
+35039,New Mexico,Rio Arriba,1990,34365
+35041,New Mexico,Roosevelt,1990,16702
+35045,New Mexico,San Juan,1990,91605
+35047,New Mexico,San Miguel,1990,25743
+35043,New Mexico,Sandoval,1990,63319
+35049,New Mexico,Santa Fe,1990,98928
+35051,New Mexico,Sierra,1990,9912
+35053,New Mexico,Socorro,1990,14764
+35055,New Mexico,Taos,1990,23118
+35057,New Mexico,Torrance,1990,10285
+35059,New Mexico,Union,1990,4124
+35061,New Mexico,Valencia,1990,45235
+36001,New York,Albany,1990,292594
+36003,New York,Allegany,1990,50470
+36005,New York,Bronx,1990,1203789
+36007,New York,Broome,1990,212160
+36009,New York,Cattaraugus,1990,84234
+36011,New York,Cayuga,1990,82313
+36013,New York,Chautauqua,1990,141895
+36015,New York,Chemung,1990,95195
+36017,New York,Chenango,1990,51768
+36019,New York,Clinton,1990,85969
+36021,New York,Columbia,1990,62982
+36023,New York,Cortland,1990,48963
+36025,New York,Delaware,1990,47225
+36027,New York,Dutchess,1990,259462
+36029,New York,Erie,1990,968532
+36031,New York,Essex,1990,37152
+36033,New York,Franklin,1990,46540
+36035,New York,Fulton,1990,54191
+36037,New York,Genesee,1990,60060
+36039,New York,Greene,1990,44739
+36041,New York,Hamilton,1990,5279
+36043,New York,Herkimer,1990,65797
+36045,New York,Jefferson,1990,110943
+36047,New York,Kings,1990,2300664
+36049,New York,Lewis,1990,26796
+36051,New York,Livingston,1990,62372
+36053,New York,Madison,1990,69120
+36055,New York,Monroe,1990,713968
+36057,New York,Montgomery,1990,51981
+36059,New York,Nassau,1990,1287348
+36061,New York,New York,1990,1487536
+36063,New York,Niagara,1990,220756
+36065,New York,Oneida,1990,250836
+36067,New York,Onondaga,1990,468973
+36069,New York,Ontario,1990,95101
+36071,New York,Orange,1990,307647
+36073,New York,Orleans,1990,41846
+36075,New York,Oswego,1990,121771
+36077,New York,Otsego,1990,60517
+36079,New York,Putnam,1990,83941
+36081,New York,Queens,1990,1951598
+36083,New York,Rensselaer,1990,154429
+36085,New York,Richmond,1990,378977
+36087,New York,Rockland,1990,265475
+36091,New York,Saratoga,1990,181276
+36093,New York,Schenectady,1990,149285
+36095,New York,Schoharie,1990,31859
+36097,New York,Schuyler,1990,18662
+36099,New York,Seneca,1990,33683
+36089,New York,St. Lawrence,1990,111974
+36101,New York,Steuben,1990,99088
+36103,New York,Suffolk,1990,1321864
+36105,New York,Sullivan,1990,69277
+36107,New York,Tioga,1990,52337
+36109,New York,Tompkins,1990,94097
+36111,New York,Ulster,1990,165304
+36113,New York,Warren,1990,59209
+36115,New York,Washington,1990,59330
+36117,New York,Wayne,1990,89123
+36119,New York,Westchester,1990,874866
+36121,New York,Wyoming,1990,42507
+36123,New York,Yates,1990,22810
+37001,North Carolina,Alamance,1990,108213
+37003,North Carolina,Alexander,1990,27544
+37005,North Carolina,Alleghany,1990,9590
+37007,North Carolina,Anson,1990,23474
+37009,North Carolina,Ashe,1990,22209
+37011,North Carolina,Avery,1990,14867
+37013,North Carolina,Beaufort,1990,42283
+37015,North Carolina,Bertie,1990,20388
+37017,North Carolina,Bladen,1990,28663
+37019,North Carolina,Brunswick,1990,50985
+37021,North Carolina,Buncombe,1990,174821
+37023,North Carolina,Burke,1990,75744
+37025,North Carolina,Cabarrus,1990,98935
+37027,North Carolina,Caldwell,1990,70709
+37029,North Carolina,Camden,1990,5904
+37031,North Carolina,Carteret,1990,52556
+37033,North Carolina,Caswell,1990,20693
+37035,North Carolina,Catawba,1990,118412
+37037,North Carolina,Chatham,1990,38759
+37039,North Carolina,Cherokee,1990,20170
+37041,North Carolina,Chowan,1990,13506
+37043,North Carolina,Clay,1990,7155
+37045,North Carolina,Cleveland,1990,84714
+37047,North Carolina,Columbus,1990,49587
+37049,North Carolina,Craven,1990,81613
+37051,North Carolina,Cumberland,1990,274566
+37053,North Carolina,Currituck,1990,13736
+37055,North Carolina,Dare,1990,22746
+37057,North Carolina,Davidson,1990,126677
+37059,North Carolina,Davie,1990,27859
+37061,North Carolina,Duplin,1990,39995
+37063,North Carolina,Durham,1990,181835
+37065,North Carolina,Edgecombe,1990,56558
+37067,North Carolina,Forsyth,1990,265878
+37069,North Carolina,Franklin,1990,36414
+37071,North Carolina,Gaston,1990,175093
+37073,North Carolina,Gates,1990,9305
+37075,North Carolina,Graham,1990,7196
+37077,North Carolina,Granville,1990,38345
+37079,North Carolina,Greene,1990,15384
+37081,North Carolina,Guilford,1990,347420
+37083,North Carolina,Halifax,1990,55516
+37085,North Carolina,Harnett,1990,67822
+37087,North Carolina,Haywood,1990,46942
+37089,North Carolina,Henderson,1990,69285
+37091,North Carolina,Hertford,1990,22523
+37093,North Carolina,Hoke,1990,22856
+37095,North Carolina,Hyde,1990,5411
+37097,North Carolina,Iredell,1990,92931
+37099,North Carolina,Jackson,1990,26846
+37101,North Carolina,Johnston,1990,81306
+37103,North Carolina,Jones,1990,9414
+37105,North Carolina,Lee,1990,41374
+37107,North Carolina,Lenoir,1990,57274
+37109,North Carolina,Lincoln,1990,50319
+37113,North Carolina,Macon,1990,23499
+37115,North Carolina,Madison,1990,16953
+37117,North Carolina,Martin,1990,25078
+37111,North Carolina,McDowell,1990,35681
+37119,North Carolina,Mecklenburg,1990,511433
+37121,North Carolina,Mitchell,1990,14433
+37123,North Carolina,Montgomery,1990,23346
+37125,North Carolina,Moore,1990,59013
+37127,North Carolina,Nash,1990,76677
+37129,North Carolina,New Hanover,1990,120284
+37131,North Carolina,Northampton,1990,20798
+37133,North Carolina,Onslow,1990,149838
+37135,North Carolina,Orange,1990,93851
+37137,North Carolina,Pamlico,1990,11372
+37139,North Carolina,Pasquotank,1990,31298
+37141,North Carolina,Pender,1990,28855
+37143,North Carolina,Perquimans,1990,10447
+37145,North Carolina,Person,1990,30180
+37147,North Carolina,Pitt,1990,107924
+37149,North Carolina,Polk,1990,14416
+37151,North Carolina,Randolph,1990,106546
+37153,North Carolina,Richmond,1990,44518
+37155,North Carolina,Robeson,1990,105179
+37157,North Carolina,Rockingham,1990,86064
+37159,North Carolina,Rowan,1990,110605
+37161,North Carolina,Rutherford,1990,56918
+37163,North Carolina,Sampson,1990,47297
+37165,North Carolina,Scotland,1990,33754
+37167,North Carolina,Stanly,1990,51765
+37169,North Carolina,Stokes,1990,37223
+37171,North Carolina,Surry,1990,61704
+37173,North Carolina,Swain,1990,11268
+37175,North Carolina,Transylvania,1990,25520
+37177,North Carolina,Tyrrell,1990,3856
+37179,North Carolina,Union,1990,84211
+37181,North Carolina,Vance,1990,38892
+37183,North Carolina,Wake,1990,423380
+37185,North Carolina,Warren,1990,17265
+37187,North Carolina,Washington,1990,13997
+37189,North Carolina,Watauga,1990,36952
+37191,North Carolina,Wayne,1990,104666
+37193,North Carolina,Wilkes,1990,59393
+37195,North Carolina,Wilson,1990,66061
+37197,North Carolina,Yadkin,1990,30488
+37199,North Carolina,Yancey,1990,15419
+38001,North Dakota,Adams,1990,3174
+38003,North Dakota,Barnes,1990,12545
+38005,North Dakota,Benson,1990,7198
+38007,North Dakota,Billings,1990,1108
+38009,North Dakota,Bottineau,1990,8011
+38011,North Dakota,Bowman,1990,3596
+38013,North Dakota,Burke,1990,3002
+38015,North Dakota,Burleigh,1990,60131
+38017,North Dakota,Cass,1990,102874
+38019,North Dakota,Cavalier,1990,6064
+38021,North Dakota,Dickey,1990,6107
+38023,North Dakota,Divide,1990,2899
+38025,North Dakota,Dunn,1990,4005
+38027,North Dakota,Eddy,1990,2951
+38029,North Dakota,Emmons,1990,4830
+38031,North Dakota,Foster,1990,3983
+38033,North Dakota,Golden Valley,1990,2108
+38035,North Dakota,Grand Forks,1990,70683
+38037,North Dakota,Grant,1990,3549
+38039,North Dakota,Griggs,1990,3303
+38041,North Dakota,Hettinger,1990,3445
+38043,North Dakota,Kidder,1990,3332
+38045,North Dakota,LaMoure,1990,5383
+38047,North Dakota,Logan,1990,2847
+38049,North Dakota,McHenry,1990,6528
+38051,North Dakota,McIntosh,1990,4021
+38053,North Dakota,McKenzie,1990,6383
+38055,North Dakota,McLean,1990,10457
+38057,North Dakota,Mercer,1990,9808
+38059,North Dakota,Morton,1990,23700
+38061,North Dakota,Mountrail,1990,7021
+38063,North Dakota,Nelson,1990,4410
+38065,North Dakota,Oliver,1990,2381
+38067,North Dakota,Pembina,1990,9238
+38069,North Dakota,Pierce,1990,5052
+38071,North Dakota,Ramsey,1990,12681
+38073,North Dakota,Ransom,1990,5921
+38075,North Dakota,Renville,1990,3160
+38077,North Dakota,Richland,1990,18148
+38079,North Dakota,Rolette,1990,12772
+38081,North Dakota,Sargent,1990,4549
+38083,North Dakota,Sheridan,1990,2148
+38085,North Dakota,Sioux,1990,3761
+38087,North Dakota,Slope,1990,907
+38089,North Dakota,Stark,1990,22832
+38091,North Dakota,Steele,1990,2420
+38093,North Dakota,Stutsman,1990,22241
+38095,North Dakota,Towner,1990,3627
+38097,North Dakota,Traill,1990,8752
+38099,North Dakota,Walsh,1990,13840
+38101,North Dakota,Ward,1990,57921
+38103,North Dakota,Wells,1990,5864
+38105,North Dakota,Williams,1990,21129
+39001,Ohio,Adams,1990,25371
+39003,Ohio,Allen,1990,109755
+39005,Ohio,Ashland,1990,47507
+39007,Ohio,Ashtabula,1990,99821
+39009,Ohio,Athens,1990,59549
+39011,Ohio,Auglaize,1990,44585
+39013,Ohio,Belmont,1990,71074
+39015,Ohio,Brown,1990,34966
+39017,Ohio,Butler,1990,291479
+39019,Ohio,Carroll,1990,26521
+39021,Ohio,Champaign,1990,36019
+39023,Ohio,Clark,1990,147548
+39025,Ohio,Clermont,1990,150187
+39027,Ohio,Clinton,1990,35415
+39029,Ohio,Columbiana,1990,108276
+39031,Ohio,Coshocton,1990,35427
+39033,Ohio,Crawford,1990,47870
+39035,Ohio,Cuyahoga,1990,1412140
+39037,Ohio,Darke,1990,53619
+39039,Ohio,Defiance,1990,39350
+39041,Ohio,Delaware,1990,66929
+39043,Ohio,Erie,1990,76779
+39045,Ohio,Fairfield,1990,103461
+39047,Ohio,Fayette,1990,27466
+39049,Ohio,Franklin,1990,961437
+39051,Ohio,Fulton,1990,38498
+39053,Ohio,Gallia,1990,30954
+39055,Ohio,Geauga,1990,81129
+39057,Ohio,Greene,1990,136731
+39059,Ohio,Guernsey,1990,39024
+39061,Ohio,Hamilton,1990,866228
+39063,Ohio,Hancock,1990,65536
+39065,Ohio,Hardin,1990,31111
+39067,Ohio,Harrison,1990,16085
+39069,Ohio,Henry,1990,29108
+39071,Ohio,Highland,1990,35728
+39073,Ohio,Hocking,1990,25533
+39075,Ohio,Holmes,1990,32849
+39077,Ohio,Huron,1990,56240
+39079,Ohio,Jackson,1990,30230
+39081,Ohio,Jefferson,1990,80298
+39083,Ohio,Knox,1990,47473
+39085,Ohio,Lake,1990,215499
+39087,Ohio,Lawrence,1990,61834
+39089,Ohio,Licking,1990,128300
+39091,Ohio,Logan,1990,42310
+39093,Ohio,Lorain,1990,271126
+39095,Ohio,Lucas,1990,462361
+39097,Ohio,Madison,1990,37068
+39099,Ohio,Mahoning,1990,264806
+39101,Ohio,Marion,1990,64274
+39103,Ohio,Medina,1990,122354
+39105,Ohio,Meigs,1990,22987
+39107,Ohio,Mercer,1990,39443
+39109,Ohio,Miami,1990,93182
+39111,Ohio,Monroe,1990,15497
+39113,Ohio,Montgomery,1990,573809
+39115,Ohio,Morgan,1990,14194
+39117,Ohio,Morrow,1990,27749
+39119,Ohio,Muskingum,1990,82068
+39121,Ohio,Noble,1990,11336
+39123,Ohio,Ottawa,1990,40029
+39125,Ohio,Paulding,1990,20488
+39127,Ohio,Perry,1990,31557
+39129,Ohio,Pickaway,1990,48255
+39131,Ohio,Pike,1990,24249
+39133,Ohio,Portage,1990,142585
+39135,Ohio,Preble,1990,40113
+39137,Ohio,Putnam,1990,33819
+39139,Ohio,Richland,1990,126137
+39141,Ohio,Ross,1990,69330
+39143,Ohio,Sandusky,1990,61963
+39145,Ohio,Scioto,1990,80327
+39147,Ohio,Seneca,1990,59733
+39149,Ohio,Shelby,1990,44915
+39151,Ohio,Stark,1990,367585
+39153,Ohio,Summit,1990,514990
+39155,Ohio,Trumbull,1990,227813
+39157,Ohio,Tuscarawas,1990,84090
+39159,Ohio,Union,1990,31969
+39161,Ohio,Van Wert,1990,30464
+39163,Ohio,Vinton,1990,11098
+39165,Ohio,Warren,1990,113909
+39167,Ohio,Washington,1990,62254
+39169,Ohio,Wayne,1990,101461
+39171,Ohio,Williams,1990,36956
+39173,Ohio,Wood,1990,113269
+39175,Ohio,Wyandot,1990,22254
+40001,Oklahoma,Adair,1990,18421
+40003,Oklahoma,Alfalfa,1990,6416
+40005,Oklahoma,Atoka,1990,12778
+40007,Oklahoma,Beaver,1990,6023
+40009,Oklahoma,Beckham,1990,18812
+40011,Oklahoma,Blaine,1990,11470
+40013,Oklahoma,Bryan,1990,32089
+40015,Oklahoma,Caddo,1990,29550
+40017,Oklahoma,Canadian,1990,74409
+40019,Oklahoma,Carter,1990,42919
+40021,Oklahoma,Cherokee,1990,34049
+40023,Oklahoma,Choctaw,1990,15302
+40025,Oklahoma,Cimarron,1990,3301
+40027,Oklahoma,Cleveland,1990,174253
+40029,Oklahoma,Coal,1990,5780
+40031,Oklahoma,Comanche,1990,111486
+40033,Oklahoma,Cotton,1990,6651
+40035,Oklahoma,Craig,1990,14104
+40037,Oklahoma,Creek,1990,60915
+40039,Oklahoma,Custer,1990,26897
+40041,Oklahoma,Delaware,1990,28070
+40043,Oklahoma,Dewey,1990,5551
+40045,Oklahoma,Ellis,1990,4497
+40047,Oklahoma,Garfield,1990,56735
+40049,Oklahoma,Garvin,1990,26605
+40051,Oklahoma,Grady,1990,41747
+40053,Oklahoma,Grant,1990,5689
+40055,Oklahoma,Greer,1990,6559
+40057,Oklahoma,Harmon,1990,3793
+40059,Oklahoma,Harper,1990,4063
+40061,Oklahoma,Haskell,1990,10940
+40063,Oklahoma,Hughes,1990,13023
+40065,Oklahoma,Jackson,1990,28764
+40067,Oklahoma,Jefferson,1990,7010
+40069,Oklahoma,Johnston,1990,10032
+40071,Oklahoma,Kay,1990,48056
+40073,Oklahoma,Kingfisher,1990,13212
+40075,Oklahoma,Kiowa,1990,11347
+40077,Oklahoma,Latimer,1990,10333
+40079,Oklahoma,Le Flore,1990,43270
+40081,Oklahoma,Lincoln,1990,29216
+40083,Oklahoma,Logan,1990,29011
+40085,Oklahoma,Love,1990,8157
+40093,Oklahoma,Major,1990,8055
+40095,Oklahoma,Marshall,1990,10829
+40097,Oklahoma,Mayes,1990,33366
+40087,Oklahoma,McClain,1990,22795
+40089,Oklahoma,McCurtain,1990,33433
+40091,Oklahoma,McIntosh,1990,16779
+40099,Oklahoma,Murray,1990,12042
+40101,Oklahoma,Muskogee,1990,68078
+40103,Oklahoma,Noble,1990,11045
+40105,Oklahoma,Nowata,1990,9992
+40107,Oklahoma,Okfuskee,1990,11551
+40109,Oklahoma,Oklahoma,1990,599611
+40111,Oklahoma,Okmulgee,1990,36490
+40113,Oklahoma,Osage,1990,41645
+40115,Oklahoma,Ottawa,1990,30561
+40117,Oklahoma,Pawnee,1990,15575
+40119,Oklahoma,Payne,1990,61507
+40121,Oklahoma,Pittsburg,1990,40581
+40123,Oklahoma,Pontotoc,1990,34119
+40125,Oklahoma,Pottawatomie,1990,58760
+40127,Oklahoma,Pushmataha,1990,10997
+40129,Oklahoma,Roger Mills,1990,4147
+40131,Oklahoma,Rogers,1990,55170
+40133,Oklahoma,Seminole,1990,25412
+40135,Oklahoma,Sequoyah,1990,33828
+40137,Oklahoma,Stephens,1990,42299
+40139,Oklahoma,Texas,1990,16419
+40141,Oklahoma,Tillman,1990,10384
+40143,Oklahoma,Tulsa,1990,503341
+40145,Oklahoma,Wagoner,1990,47883
+40147,Oklahoma,Washington,1990,48066
+40149,Oklahoma,Washita,1990,11441
+40151,Oklahoma,Woods,1990,9103
+40153,Oklahoma,Woodward,1990,18976
+41001,Oregon,Baker,1990,15317
+41003,Oregon,Benton,1990,70811
+41005,Oregon,Clackamas,1990,278850
+41007,Oregon,Clatsop,1990,33301
+41009,Oregon,Columbia,1990,37557
+41011,Oregon,Coos,1990,60273
+41013,Oregon,Crook,1990,14111
+41015,Oregon,Curry,1990,19327
+41017,Oregon,Deschutes,1990,74958
+41019,Oregon,Douglas,1990,94649
+41021,Oregon,Gilliam,1990,1717
+41023,Oregon,Grant,1990,7853
+41025,Oregon,Harney,1990,7060
+41027,Oregon,Hood River,1990,16903
+41029,Oregon,Jackson,1990,146389
+41031,Oregon,Jefferson,1990,13676
+41033,Oregon,Josephine,1990,62649
+41035,Oregon,Klamath,1990,57702
+41037,Oregon,Lake,1990,7186
+41039,Oregon,Lane,1990,282912
+41041,Oregon,Lincoln,1990,38889
+41043,Oregon,Linn,1990,91227
+41045,Oregon,Malheur,1990,26038
+41047,Oregon,Marion,1990,228483
+41049,Oregon,Morrow,1990,7625
+41051,Oregon,Multnomah,1990,583887
+41053,Oregon,Polk,1990,49541
+41055,Oregon,Sherman,1990,1918
+41057,Oregon,Tillamook,1990,21570
+41059,Oregon,Umatilla,1990,59249
+41061,Oregon,Union,1990,23598
+41063,Oregon,Wallowa,1990,6911
+41065,Oregon,Wasco,1990,21683
+41067,Oregon,Washington,1990,311554
+41069,Oregon,Wheeler,1990,1396
+41071,Oregon,Yamhill,1990,65551
+42001,Pennsylvania,Adams,1990,78274
+42003,Pennsylvania,Allegheny,1990,1336449
+42005,Pennsylvania,Armstrong,1990,73478
+42007,Pennsylvania,Beaver,1990,186093
+42009,Pennsylvania,Bedford,1990,47919
+42011,Pennsylvania,Berks,1990,336523
+42013,Pennsylvania,Blair,1990,130542
+42015,Pennsylvania,Bradford,1990,60967
+42017,Pennsylvania,Bucks,1990,541174
+42019,Pennsylvania,Butler,1990,152013
+42021,Pennsylvania,Cambria,1990,163029
+42023,Pennsylvania,Cameron,1990,5913
+42025,Pennsylvania,Carbon,1990,56846
+42027,Pennsylvania,Centre,1990,123786
+42029,Pennsylvania,Chester,1990,376396
+42031,Pennsylvania,Clarion,1990,41699
+42033,Pennsylvania,Clearfield,1990,78097
+42035,Pennsylvania,Clinton,1990,37182
+42037,Pennsylvania,Columbia,1990,63202
+42039,Pennsylvania,Crawford,1990,86169
+42041,Pennsylvania,Cumberland,1990,195257
+42043,Pennsylvania,Dauphin,1990,237813
+42045,Pennsylvania,Delaware,1990,547651
+42047,Pennsylvania,Elk,1990,34878
+42049,Pennsylvania,Erie,1990,275572
+42051,Pennsylvania,Fayette,1990,145351
+42053,Pennsylvania,Forest,1990,4802
+42055,Pennsylvania,Franklin,1990,121082
+42057,Pennsylvania,Fulton,1990,13837
+42059,Pennsylvania,Greene,1990,39550
+42061,Pennsylvania,Huntingdon,1990,44164
+42063,Pennsylvania,Indiana,1990,89994
+42065,Pennsylvania,Jefferson,1990,46083
+42067,Pennsylvania,Juniata,1990,20625
+42069,Pennsylvania,Lackawanna,1990,219039
+42071,Pennsylvania,Lancaster,1990,422822
+42073,Pennsylvania,Lawrence,1990,96246
+42075,Pennsylvania,Lebanon,1990,113744
+42077,Pennsylvania,Lehigh,1990,291130
+42079,Pennsylvania,Luzerne,1990,328149
+42081,Pennsylvania,Lycoming,1990,118710
+42083,Pennsylvania,McKean,1990,47131
+42085,Pennsylvania,Mercer,1990,121003
+42087,Pennsylvania,Mifflin,1990,46197
+42089,Pennsylvania,Monroe,1990,95709
+42091,Pennsylvania,Montgomery,1990,678111
+42093,Pennsylvania,Montour,1990,17735
+42095,Pennsylvania,Northampton,1990,247105
+42097,Pennsylvania,Northumberland,1990,96771
+42099,Pennsylvania,Perry,1990,41172
+42101,Pennsylvania,Philadelphia,1990,1585577
+42103,Pennsylvania,Pike,1990,27966
+42105,Pennsylvania,Potter,1990,16717
+42107,Pennsylvania,Schuylkill,1990,152585
+42109,Pennsylvania,Snyder,1990,36680
+42111,Pennsylvania,Somerset,1990,78218
+42113,Pennsylvania,Sullivan,1990,6104
+42115,Pennsylvania,Susquehanna,1990,40380
+42117,Pennsylvania,Tioga,1990,41126
+42119,Pennsylvania,Union,1990,36176
+42121,Pennsylvania,Venango,1990,59381
+42123,Pennsylvania,Warren,1990,45050
+42125,Pennsylvania,Washington,1990,204584
+42127,Pennsylvania,Wayne,1990,39944
+42129,Pennsylvania,Westmoreland,1990,370321
+42131,Pennsylvania,Wyoming,1990,28076
+42133,Pennsylvania,York,1990,339574
+44001,Rhode Island,Bristol,1990,48859
+44003,Rhode Island,Kent,1990,161135
+44005,Rhode Island,Newport,1990,87194
+44007,Rhode Island,Providence,1990,596270
+44009,Rhode Island,Washington,1990,110006
+45001,South Carolina,Abbeville,1990,23862
+45003,South Carolina,Aiken,1990,120940
+45005,South Carolina,Allendale,1990,11722
+45007,South Carolina,Anderson,1990,145196
+45009,South Carolina,Bamberg,1990,16902
+45011,South Carolina,Barnwell,1990,20293
+45013,South Carolina,Beaufort,1990,86425
+45015,South Carolina,Berkeley,1990,128776
+45017,South Carolina,Calhoun,1990,12753
+45019,South Carolina,Charleston,1990,295039
+45021,South Carolina,Cherokee,1990,44506
+45023,South Carolina,Chester,1990,32170
+45025,South Carolina,Chesterfield,1990,38577
+45027,South Carolina,Clarendon,1990,28450
+45029,South Carolina,Colleton,1990,34377
+45031,South Carolina,Darlington,1990,61851
+45033,South Carolina,Dillon,1990,29114
+45035,South Carolina,Dorchester,1990,83060
+45037,South Carolina,Edgefield,1990,18375
+45039,South Carolina,Fairfield,1990,22295
+45041,South Carolina,Florence,1990,114344
+45043,South Carolina,Georgetown,1990,46302
+45045,South Carolina,Greenville,1990,320167
+45047,South Carolina,Greenwood,1990,59567
+45049,South Carolina,Hampton,1990,18191
+45051,South Carolina,Horry,1990,144053
+45053,South Carolina,Jasper,1990,15487
+45055,South Carolina,Kershaw,1990,43599
+45057,South Carolina,Lancaster,1990,54516
+45059,South Carolina,Laurens,1990,58092
+45061,South Carolina,Lee,1990,18437
+45063,South Carolina,Lexington,1990,167611
+45067,South Carolina,Marion,1990,33899
+45069,South Carolina,Marlboro,1990,29361
+45065,South Carolina,McCormick,1990,8868
+45071,South Carolina,Newberry,1990,33172
+45073,South Carolina,Oconee,1990,57494
+45075,South Carolina,Orangeburg,1990,84803
+45077,South Carolina,Pickens,1990,93894
+45079,South Carolina,Richland,1990,285720
+45081,South Carolina,Saluda,1990,16357
+45083,South Carolina,Spartanburg,1990,226800
+45085,South Carolina,Sumter,1990,102637
+45087,South Carolina,Union,1990,30337
+45089,South Carolina,Williamsburg,1990,36815
+45091,South Carolina,York,1990,131497
+46003,South Dakota,Aurora,1990,3135
+46005,South Dakota,Beadle,1990,18253
+46007,South Dakota,Bennett,1990,3206
+46009,South Dakota,Bon Homme,1990,7089
+46011,South Dakota,Brookings,1990,25207
+46013,South Dakota,Brown,1990,35580
+46015,South Dakota,Brule,1990,5485
+46017,South Dakota,Buffalo,1990,1759
+46019,South Dakota,Butte,1990,7914
+46021,South Dakota,Campbell,1990,1965
+46023,South Dakota,Charles Mix,1990,9131
+46025,South Dakota,Clark,1990,4403
+46027,South Dakota,Clay,1990,13186
+46029,South Dakota,Codington,1990,22698
+46031,South Dakota,Corson,1990,4195
+46033,South Dakota,Custer,1990,6179
+46035,South Dakota,Davison,1990,17503
+46037,South Dakota,Day,1990,6978
+46039,South Dakota,Deuel,1990,4522
+46041,South Dakota,Dewey,1990,5523
+46043,South Dakota,Douglas,1990,3746
+46045,South Dakota,Edmunds,1990,4356
+46047,South Dakota,Fall River,1990,7353
+46049,South Dakota,Faulk,1990,2744
+46051,South Dakota,Grant,1990,8372
+46053,South Dakota,Gregory,1990,5359
+46055,South Dakota,Haakon,1990,2624
+46057,South Dakota,Hamlin,1990,4974
+46059,South Dakota,Hand,1990,4272
+46061,South Dakota,Hanson,1990,2994
+46063,South Dakota,Harding,1990,1669
+46065,South Dakota,Hughes,1990,14817
+46067,South Dakota,Hutchinson,1990,8262
+46069,South Dakota,Hyde,1990,1696
+46071,South Dakota,Jackson,1990,2811
+46073,South Dakota,Jerauld,1990,2425
+46075,South Dakota,Jones,1990,1324
+46077,South Dakota,Kingsbury,1990,5925
+46079,South Dakota,Lake,1990,10550
+46081,South Dakota,Lawrence,1990,20655
+46083,South Dakota,Lincoln,1990,15427
+46085,South Dakota,Lyman,1990,3638
+46091,South Dakota,Marshall,1990,4844
+46087,South Dakota,McCook,1990,5688
+46089,South Dakota,McPherson,1990,3228
+46093,South Dakota,Meade,1990,21878
+46095,South Dakota,Mellette,1990,2137
+46097,South Dakota,Miner,1990,3272
+46099,South Dakota,Minnehaha,1990,123809
+46101,South Dakota,Moody,1990,6507
+46103,South Dakota,Pennington,1990,81343
+46105,South Dakota,Perkins,1990,3932
+46107,South Dakota,Potter,1990,3190
+46109,South Dakota,Roberts,1990,9914
+46111,South Dakota,Sanborn,1990,2833
+46113,South Dakota,Shannon,1990,9902
+46115,South Dakota,Spink,1990,7981
+46117,South Dakota,Stanley,1990,2453
+46119,South Dakota,Sully,1990,1589
+46121,South Dakota,Todd,1990,8352
+46123,South Dakota,Tripp,1990,6924
+46125,South Dakota,Turner,1990,8576
+46127,South Dakota,Union,1990,10189
+46129,South Dakota,Walworth,1990,6087
+46135,South Dakota,Yankton,1990,19252
+46137,South Dakota,Ziebach,1990,2220
+47001,Tennessee,Anderson,1990,68250
+47003,Tennessee,Bedford,1990,30411
+47005,Tennessee,Benton,1990,14524
+47007,Tennessee,Bledsoe,1990,9669
+47009,Tennessee,Blount,1990,85969
+47011,Tennessee,Bradley,1990,73712
+47013,Tennessee,Campbell,1990,35079
+47015,Tennessee,Cannon,1990,10467
+47017,Tennessee,Carroll,1990,27514
+47019,Tennessee,Carter,1990,51505
+47021,Tennessee,Cheatham,1990,27140
+47023,Tennessee,Chester,1990,12819
+47025,Tennessee,Claiborne,1990,26137
+47027,Tennessee,Clay,1990,7238
+47029,Tennessee,Cocke,1990,29141
+47031,Tennessee,Coffee,1990,40339
+47033,Tennessee,Crockett,1990,13378
+47035,Tennessee,Cumberland,1990,34736
+47037,Tennessee,Davidson,1990,510784
+47041,Tennessee,DeKalb,1990,14360
+47039,Tennessee,Decatur,1990,10472
+47043,Tennessee,Dickson,1990,35061
+47045,Tennessee,Dyer,1990,34854
+47047,Tennessee,Fayette,1990,25559
+47049,Tennessee,Fentress,1990,14669
+47051,Tennessee,Franklin,1990,34725
+47053,Tennessee,Gibson,1990,46315
+47055,Tennessee,Giles,1990,25741
+47057,Tennessee,Grainger,1990,17095
+47059,Tennessee,Greene,1990,55853
+47061,Tennessee,Grundy,1990,13362
+47063,Tennessee,Hamblen,1990,50480
+47065,Tennessee,Hamilton,1990,285536
+47067,Tennessee,Hancock,1990,6739
+47069,Tennessee,Hardeman,1990,23377
+47071,Tennessee,Hardin,1990,22633
+47073,Tennessee,Hawkins,1990,44565
+47075,Tennessee,Haywood,1990,19437
+47077,Tennessee,Henderson,1990,21844
+47079,Tennessee,Henry,1990,27888
+47081,Tennessee,Hickman,1990,16754
+47083,Tennessee,Houston,1990,7018
+47085,Tennessee,Humphreys,1990,15795
+47087,Tennessee,Jackson,1990,9297
+47089,Tennessee,Jefferson,1990,33016
+47091,Tennessee,Johnson,1990,13766
+47093,Tennessee,Knox,1990,335749
+47095,Tennessee,Lake,1990,7129
+47097,Tennessee,Lauderdale,1990,23491
+47099,Tennessee,Lawrence,1990,35303
+47101,Tennessee,Lewis,1990,9247
+47103,Tennessee,Lincoln,1990,28157
+47105,Tennessee,Loudon,1990,31255
+47111,Tennessee,Macon,1990,15906
+47113,Tennessee,Madison,1990,77982
+47115,Tennessee,Marion,1990,24860
+47117,Tennessee,Marshall,1990,21539
+47119,Tennessee,Maury,1990,54812
+47107,Tennessee,McMinn,1990,42383
+47109,Tennessee,McNairy,1990,22422
+47121,Tennessee,Meigs,1990,8033
+47123,Tennessee,Monroe,1990,30541
+47125,Tennessee,Montgomery,1990,100498
+47127,Tennessee,Moore,1990,4721
+47129,Tennessee,Morgan,1990,17300
+47131,Tennessee,Obion,1990,31717
+47133,Tennessee,Overton,1990,17636
+47135,Tennessee,Perry,1990,6612
+47137,Tennessee,Pickett,1990,4548
+47139,Tennessee,Polk,1990,13643
+47141,Tennessee,Putnam,1990,51373
+47143,Tennessee,Rhea,1990,24344
+47145,Tennessee,Roane,1990,47227
+47147,Tennessee,Robertson,1990,41494
+47149,Tennessee,Rutherford,1990,118570
+47151,Tennessee,Scott,1990,18358
+47153,Tennessee,Sequatchie,1990,8863
+47155,Tennessee,Sevier,1990,51043
+47157,Tennessee,Shelby,1990,826330
+47159,Tennessee,Smith,1990,14143
+47161,Tennessee,Stewart,1990,9479
+47163,Tennessee,Sullivan,1990,143596
+47165,Tennessee,Sumner,1990,103281
+47167,Tennessee,Tipton,1990,37568
+47169,Tennessee,Trousdale,1990,5920
+47171,Tennessee,Unicoi,1990,16549
+47173,Tennessee,Union,1990,13694
+47175,Tennessee,Van Buren,1990,4846
+47177,Tennessee,Warren,1990,32992
+47179,Tennessee,Washington,1990,92315
+47181,Tennessee,Wayne,1990,13935
+47183,Tennessee,Weakley,1990,31972
+47185,Tennessee,White,1990,20090
+47187,Tennessee,Williamson,1990,81021
+47189,Tennessee,Wilson,1990,67675
+48001,Texas,Anderson,1990,48024
+48003,Texas,Andrews,1990,14338
+48005,Texas,Angelina,1990,69884
+48007,Texas,Aransas,1990,17892
+48009,Texas,Archer,1990,7973
+48011,Texas,Armstrong,1990,2021
+48013,Texas,Atascosa,1990,30533
+48015,Texas,Austin,1990,19832
+48017,Texas,Bailey,1990,7064
+48019,Texas,Bandera,1990,10562
+48021,Texas,Bastrop,1990,38263
+48023,Texas,Baylor,1990,4385
+48025,Texas,Bee,1990,25135
+48027,Texas,Bell,1990,191088
+48029,Texas,Bexar,1990,1185394
+48031,Texas,Blanco,1990,5972
+48033,Texas,Borden,1990,799
+48035,Texas,Bosque,1990,15125
+48037,Texas,Bowie,1990,81665
+48039,Texas,Brazoria,1990,191707
+48041,Texas,Brazos,1990,121862
+48043,Texas,Brewster,1990,8681
+48045,Texas,Briscoe,1990,1971
+48047,Texas,Brooks,1990,8204
+48049,Texas,Brown,1990,34371
+48051,Texas,Burleson,1990,13625
+48053,Texas,Burnet,1990,22677
+48055,Texas,Caldwell,1990,26392
+48057,Texas,Calhoun,1990,19053
+48059,Texas,Callahan,1990,11859
+48061,Texas,Cameron,1990,260120
+48063,Texas,Camp,1990,9904
+48065,Texas,Carson,1990,6576
+48067,Texas,Cass,1990,29982
+48069,Texas,Castro,1990,9070
+48071,Texas,Chambers,1990,20088
+48073,Texas,Cherokee,1990,41049
+48075,Texas,Childress,1990,5953
+48077,Texas,Clay,1990,10024
+48079,Texas,Cochran,1990,4377
+48081,Texas,Coke,1990,3424
+48083,Texas,Coleman,1990,9710
+48085,Texas,Collin,1990,264036
+48087,Texas,Collingsworth,1990,3573
+48089,Texas,Colorado,1990,18383
+48091,Texas,Comal,1990,51832
+48093,Texas,Comanche,1990,13381
+48095,Texas,Concho,1990,3044
+48097,Texas,Cooke,1990,30777
+48099,Texas,Coryell,1990,64213
+48101,Texas,Cottle,1990,2247
+48103,Texas,Crane,1990,4652
+48105,Texas,Crockett,1990,4078
+48107,Texas,Crosby,1990,7304
+48109,Texas,Culberson,1990,3407
+48111,Texas,Dallam,1990,5461
+48113,Texas,Dallas,1990,1852810
+48115,Texas,Dawson,1990,14349
+48123,Texas,DeWitt,1990,18840
+48117,Texas,Deaf Smith,1990,19153
+48119,Texas,Delta,1990,4857
+48121,Texas,Denton,1990,273525
+48125,Texas,Dickens,1990,2571
+48127,Texas,Dimmit,1990,10433
+48129,Texas,Donley,1990,3696
+48131,Texas,Duval,1990,12918
+48133,Texas,Eastland,1990,18488
+48135,Texas,Ector,1990,118934
+48137,Texas,Edwards,1990,2266
+48141,Texas,El Paso,1990,591610
+48139,Texas,Ellis,1990,85167
+48143,Texas,Erath,1990,27991
+48145,Texas,Falls,1990,17712
+48147,Texas,Fannin,1990,24804
+48149,Texas,Fayette,1990,20095
+48151,Texas,Fisher,1990,4842
+48153,Texas,Floyd,1990,8497
+48155,Texas,Foard,1990,1794
+48157,Texas,Fort Bend,1990,225421
+48159,Texas,Franklin,1990,7802
+48161,Texas,Freestone,1990,15818
+48163,Texas,Frio,1990,13472
+48165,Texas,Gaines,1990,14123
+48167,Texas,Galveston,1990,217399
+48169,Texas,Garza,1990,5143
+48171,Texas,Gillespie,1990,17204
+48173,Texas,Glasscock,1990,1447
+48175,Texas,Goliad,1990,5980
+48177,Texas,Gonzales,1990,17205
+48179,Texas,Gray,1990,23967
+48181,Texas,Grayson,1990,95021
+48183,Texas,Gregg,1990,104948
+48185,Texas,Grimes,1990,18828
+48187,Texas,Guadalupe,1990,64873
+48189,Texas,Hale,1990,34671
+48191,Texas,Hall,1990,3905
+48193,Texas,Hamilton,1990,7733
+48195,Texas,Hansford,1990,5848
+48197,Texas,Hardeman,1990,5283
+48199,Texas,Hardin,1990,41320
+48201,Texas,Harris,1990,2818199
+48203,Texas,Harrison,1990,57483
+48205,Texas,Hartley,1990,3634
+48207,Texas,Haskell,1990,6820
+48209,Texas,Hays,1990,65614
+48211,Texas,Hemphill,1990,3720
+48213,Texas,Henderson,1990,58543
+48215,Texas,Hidalgo,1990,383545
+48217,Texas,Hill,1990,27146
+48219,Texas,Hockley,1990,24199
+48221,Texas,Hood,1990,28981
+48223,Texas,Hopkins,1990,28833
+48225,Texas,Houston,1990,21375
+48227,Texas,Howard,1990,32343
+48229,Texas,Hudspeth,1990,2915
+48231,Texas,Hunt,1990,64343
+48233,Texas,Hutchinson,1990,25689
+48235,Texas,Irion,1990,1629
+48237,Texas,Jack,1990,6981
+48239,Texas,Jackson,1990,13039
+48241,Texas,Jasper,1990,31102
+48243,Texas,Jeff Davis,1990,1946
+48245,Texas,Jefferson,1990,239397
+48247,Texas,Jim Hogg,1990,5109
+48249,Texas,Jim Wells,1990,37679
+48251,Texas,Johnson,1990,97165
+48253,Texas,Jones,1990,16490
+48255,Texas,Karnes,1990,12455
+48257,Texas,Kaufman,1990,52220
+48259,Texas,Kendall,1990,14589
+48261,Texas,Kenedy,1990,460
+48263,Texas,Kent,1990,1010
+48265,Texas,Kerr,1990,36304
+48267,Texas,Kimble,1990,4122
+48269,Texas,King,1990,354
+48271,Texas,Kinney,1990,3119
+48273,Texas,Kleberg,1990,30274
+48275,Texas,Knox,1990,4837
+48283,Texas,La Salle,1990,5254
+48277,Texas,Lamar,1990,43949
+48279,Texas,Lamb,1990,15072
+48281,Texas,Lampasas,1990,13521
+48285,Texas,Lavaca,1990,18690
+48287,Texas,Lee,1990,12854
+48289,Texas,Leon,1990,12665
+48291,Texas,Liberty,1990,52726
+48293,Texas,Limestone,1990,20946
+48295,Texas,Lipscomb,1990,3143
+48297,Texas,Live Oak,1990,9556
+48299,Texas,Llano,1990,11631
+48301,Texas,Loving,1990,107
+48303,Texas,Lubbock,1990,222636
+48305,Texas,Lynn,1990,6758
+48313,Texas,Madison,1990,10931
+48315,Texas,Marion,1990,9984
+48317,Texas,Martin,1990,4956
+48319,Texas,Mason,1990,3423
+48321,Texas,Matagorda,1990,36928
+48323,Texas,Maverick,1990,36378
+48307,Texas,McCulloch,1990,8778
+48309,Texas,McLennan,1990,189123
+48311,Texas,McMullen,1990,817
+48325,Texas,Medina,1990,27312
+48327,Texas,Menard,1990,2252
+48329,Texas,Midland,1990,106611
+48331,Texas,Milam,1990,22946
+48333,Texas,Mills,1990,4531
+48335,Texas,Mitchell,1990,8016
+48337,Texas,Montague,1990,17274
+48339,Texas,Montgomery,1990,182201
+48341,Texas,Moore,1990,17865
+48343,Texas,Morris,1990,13200
+48345,Texas,Motley,1990,1532
+48347,Texas,Nacogdoches,1990,54753
+48349,Texas,Navarro,1990,39926
+48351,Texas,Newton,1990,13569
+48353,Texas,Nolan,1990,16594
+48355,Texas,Nueces,1990,291145
+48357,Texas,Ochiltree,1990,9128
+48359,Texas,Oldham,1990,2278
+48361,Texas,Orange,1990,80509
+48363,Texas,Palo Pinto,1990,25055
+48365,Texas,Panola,1990,22035
+48367,Texas,Parker,1990,64785
+48369,Texas,Parmer,1990,9863
+48371,Texas,Pecos,1990,14675
+48373,Texas,Polk,1990,30687
+48375,Texas,Potter,1990,97874
+48377,Texas,Presidio,1990,6637
+48379,Texas,Rains,1990,6715
+48381,Texas,Randall,1990,89673
+48383,Texas,Reagan,1990,4514
+48385,Texas,Real,1990,2412
+48387,Texas,Red River,1990,14317
+48389,Texas,Reeves,1990,15852
+48391,Texas,Refugio,1990,7976
+48393,Texas,Roberts,1990,1025
+48395,Texas,Robertson,1990,15511
+48397,Texas,Rockwall,1990,25604
+48399,Texas,Runnels,1990,11294
+48401,Texas,Rusk,1990,43735
+48403,Texas,Sabine,1990,9586
+48405,Texas,San Augustine,1990,7999
+48407,Texas,San Jacinto,1990,16372
+48409,Texas,San Patricio,1990,58749
+48411,Texas,San Saba,1990,5401
+48413,Texas,Schleicher,1990,2990
+48415,Texas,Scurry,1990,18634
+48417,Texas,Shackelford,1990,3316
+48419,Texas,Shelby,1990,22034
+48421,Texas,Sherman,1990,2858
+48423,Texas,Smith,1990,151309
+48425,Texas,Somervell,1990,5360
+48427,Texas,Starr,1990,40518
+48429,Texas,Stephens,1990,9010
+48431,Texas,Sterling,1990,1438
+48433,Texas,Stonewall,1990,2013
+48435,Texas,Sutton,1990,4135
+48437,Texas,Swisher,1990,8133
+48439,Texas,Tarrant,1990,1170103
+48441,Texas,Taylor,1990,119655
+48443,Texas,Terrell,1990,1410
+48445,Texas,Terry,1990,13218
+48447,Texas,Throckmorton,1990,1880
+48449,Texas,Titus,1990,24009
+48451,Texas,Tom Green,1990,98458
+48453,Texas,Travis,1990,576407
+48455,Texas,Trinity,1990,11445
+48457,Texas,Tyler,1990,16646
+48459,Texas,Upshur,1990,31370
+48461,Texas,Upton,1990,4447
+48463,Texas,Uvalde,1990,23340
+48465,Texas,Val Verde,1990,38721
+48467,Texas,Van Zandt,1990,37944
+48469,Texas,Victoria,1990,74361
+48471,Texas,Walker,1990,50917
+48473,Texas,Waller,1990,23390
+48475,Texas,Ward,1990,13115
+48477,Texas,Washington,1990,26154
+48479,Texas,Webb,1990,133239
+48481,Texas,Wharton,1990,39955
+48483,Texas,Wheeler,1990,5879
+48485,Texas,Wichita,1990,122378
+48487,Texas,Wilbarger,1990,15121
+48489,Texas,Willacy,1990,17705
+48491,Texas,Williamson,1990,139551
+48493,Texas,Wilson,1990,22650
+48495,Texas,Winkler,1990,8626
+48497,Texas,Wise,1990,34679
+48499,Texas,Wood,1990,29380
+48501,Texas,Yoakum,1990,8786
+48503,Texas,Young,1990,18126
+48505,Texas,Zapata,1990,9279
+48507,Texas,Zavala,1990,12162
+49001,Utah,Beaver,1990,4765
+49003,Utah,Box Elder,1990,36485
+49005,Utah,Cache,1990,70183
+49007,Utah,Carbon,1990,20228
+49009,Utah,Daggett,1990,690
+49011,Utah,Davis,1990,187941
+49013,Utah,Duchesne,1990,12645
+49015,Utah,Emery,1990,10332
+49017,Utah,Garfield,1990,3980
+49019,Utah,Grand,1990,6620
+49021,Utah,Iron,1990,20789
+49023,Utah,Juab,1990,5817
+49025,Utah,Kane,1990,5169
+49027,Utah,Millard,1990,11333
+49029,Utah,Morgan,1990,5528
+49031,Utah,Piute,1990,1277
+49033,Utah,Rich,1990,1725
+49035,Utah,Salt Lake,1990,725956
+49037,Utah,San Juan,1990,12621
+49039,Utah,Sanpete,1990,16259
+49041,Utah,Sevier,1990,15431
+49043,Utah,Summit,1990,15518
+49045,Utah,Tooele,1990,26601
+49047,Utah,Uintah,1990,22211
+49049,Utah,Utah,1990,263590
+49051,Utah,Wasatch,1990,10089
+49053,Utah,Washington,1990,48560
+49055,Utah,Wayne,1990,2177
+49057,Utah,Weber,1990,158330
+50001,Vermont,Addison,1990,32953
+50003,Vermont,Bennington,1990,35845
+50005,Vermont,Caledonia,1990,27846
+50007,Vermont,Chittenden,1990,131761
+50009,Vermont,Essex,1990,6405
+50011,Vermont,Franklin,1990,39980
+50013,Vermont,Grand Isle,1990,5318
+50015,Vermont,Lamoille,1990,19735
+50017,Vermont,Orange,1990,26149
+50019,Vermont,Orleans,1990,24053
+50021,Vermont,Rutland,1990,62142
+50023,Vermont,Washington,1990,54928
+50025,Vermont,Windham,1990,41588
+50027,Vermont,Windsor,1990,54055
+51001,Virginia,Accomack,1990,31703
+51003,Virginia,Albemarle,1990,68040
+51510,Virginia,Alexandria (city),1990,111183
+51005,Virginia,Alleghany,1990,13176
+51007,Virginia,Amelia,1990,8787
+51009,Virginia,Amherst,1990,28578
+51011,Virginia,Appomattox,1990,12298
+51013,Virginia,Arlington,1990,170936
+51015,Virginia,Augusta,1990,54677
+51017,Virginia,Bath,1990,4799
+51019,Virginia,Bedford,1990,45656
+51515,Virginia,Bedford (city),1990,6073
+51021,Virginia,Bland,1990,6514
+51023,Virginia,Botetourt,1990,24992
+51520,Virginia,Bristol (city),1990,18426
+51025,Virginia,Brunswick,1990,15987
+51027,Virginia,Buchanan,1990,31333
+51029,Virginia,Buckingham,1990,12873
+51530,Virginia,Buena Vista (city),1990,6406
+51031,Virginia,Campbell,1990,47572
+51033,Virginia,Caroline,1990,19217
+51035,Virginia,Carroll,1990,26594
+51036,Virginia,Charles City,1990,6282
+51037,Virginia,Charlotte,1990,11688
+51540,Virginia,Charlottesville (city),1990,40341
+51550,Virginia,Chesapeake (city),1990,151976
+51041,Virginia,Chesterfield,1990,209274
+51043,Virginia,Clarke,1990,12101
+51560,Virginia,Clifton Forge (city),1990,4679
+51570,Virginia,Colonial Heights (city),1990,16064
+51580,Virginia,Covington (city),1990,6991
+51045,Virginia,Craig,1990,4372
+51047,Virginia,Culpeper,1990,27791
+51049,Virginia,Cumberland,1990,7825
+51590,Virginia,Danville (city),1990,53056
+51051,Virginia,Dickenson,1990,17620
+51053,Virginia,Dinwiddie,1990,20960
+51595,Virginia,Emporia (city),1990,5306
+51057,Virginia,Essex,1990,8689
+51059,Virginia,Fairfax,1990,818584
+51600,Virginia,Fairfax (city),1990,19622
+51610,Virginia,Falls Church (city),1990,9578
+51061,Virginia,Fauquier,1990,48741
+51063,Virginia,Floyd,1990,12005
+51065,Virginia,Fluvanna,1990,12429
+51067,Virginia,Franklin,1990,39549
+51620,Virginia,Franklin (city),1990,7864
+51069,Virginia,Frederick,1990,45723
+51630,Virginia,Fredericksburg (city),1990,19027
+51640,Virginia,Galax (city),1990,6670
+51071,Virginia,Giles,1990,16366
+51073,Virginia,Gloucester,1990,30131
+51075,Virginia,Goochland,1990,14163
+51077,Virginia,Grayson,1990,16278
+51079,Virginia,Greene,1990,10297
+51081,Virginia,Greensville,1990,8853
+51083,Virginia,Halifax,1990,29033
+51650,Virginia,Hampton (city),1990,133793
+51085,Virginia,Hanover,1990,63306
+51660,Virginia,Harrisonburg (city),1990,30707
+51087,Virginia,Henrico,1990,217881
+51089,Virginia,Henry,1990,56942
+51091,Virginia,Highland,1990,2635
+51670,Virginia,Hopewell (city),1990,23101
+51093,Virginia,Isle of Wight,1990,25053
+51095,Virginia,James City,1990,34859
+51099,Virginia,King George,1990,13527
+51101,Virginia,King William,1990,10913
+51097,Virginia,King and Queen,1990,6289
+51103,Virginia,Lancaster,1990,10896
+51105,Virginia,Lee,1990,24496
+51678,Virginia,Lexington (city),1990,6959
+51107,Virginia,Loudoun,1990,86129
+51109,Virginia,Louisa,1990,20325
+51111,Virginia,Lunenburg,1990,11419
+51680,Virginia,Lynchburg (city),1990,66049
+51113,Virginia,Madison,1990,11949
+51683,Virginia,Manassas (city),1990,27957
+51685,Virginia,Manassas Park (city),1990,6734
+51690,Virginia,Martinsville (city),1990,16162
+51115,Virginia,Mathews,1990,8348
+51117,Virginia,Mecklenburg,1990,29241
+51119,Virginia,Middlesex,1990,8653
+51121,Virginia,Montgomery,1990,73913
+51125,Virginia,Nelson,1990,12778
+51127,Virginia,New Kent,1990,10445
+51700,Virginia,Newport News (city),1990,170045
+51710,Virginia,Norfolk (city),1990,261229
+51131,Virginia,Northampton,1990,13061
+51133,Virginia,Northumberland,1990,10524
+51720,Virginia,Norton (city),1990,4247
+51135,Virginia,Nottoway,1990,14993
+51137,Virginia,Orange,1990,21421
+51139,Virginia,Page,1990,21690
+51141,Virginia,Patrick,1990,17473
+51730,Virginia,Petersburg (city),1990,38386
+51143,Virginia,Pittsylvania,1990,55655
+51735,Virginia,Poquoson (city),1990,11005
+51740,Virginia,Portsmouth (city),1990,103907
+51145,Virginia,Powhatan,1990,15328
+51147,Virginia,Prince Edward,1990,17320
+51149,Virginia,Prince George,1990,27394
+51153,Virginia,Prince William,1990,215686
+51155,Virginia,Pulaski,1990,34496
+51750,Virginia,Radford (city),1990,15940
+51157,Virginia,Rappahannock,1990,6622
+51159,Virginia,Richmond,1990,7273
+51760,Virginia,Richmond (city),1990,203056
+51161,Virginia,Roanoke,1990,79332
+51770,Virginia,Roanoke (city),1990,96397
+51163,Virginia,Rockbridge,1990,18350
+51165,Virginia,Rockingham,1990,57482
+51167,Virginia,Russell,1990,28667
+51775,Virginia,Salem (city),1990,23756
+51169,Virginia,Scott,1990,23204
+51171,Virginia,Shenandoah,1990,31636
+51173,Virginia,Smyth,1990,32370
+51780,Virginia,South Boston (city),1990,6997
+51175,Virginia,Southampton,1990,17550
+51177,Virginia,Spotsylvania,1990,57403
+51179,Virginia,Stafford,1990,61236
+51790,Virginia,Staunton (city),1990,24461
+51800,Virginia,Suffolk (city),1990,52141
+51181,Virginia,Surry,1990,6145
+51183,Virginia,Sussex,1990,10248
+51185,Virginia,Tazewell,1990,45960
+51810,Virginia,Virginia Beach (city),1990,393069
+51187,Virginia,Warren,1990,26142
+51191,Virginia,Washington,1990,45887
+51820,Virginia,Waynesboro (city),1990,18549
+51193,Virginia,Westmoreland,1990,15480
+51830,Virginia,Williamsburg (city),1990,11530
+51840,Virginia,Winchester (city),1990,21947
+51195,Virginia,Wise,1990,39573
+51197,Virginia,Wythe,1990,25466
+51199,Virginia,York,1990,42422
+53001,Washington,Adams,1990,13603
+53003,Washington,Asotin,1990,17605
+53005,Washington,Benton,1990,112560
+53007,Washington,Chelan,1990,52250
+53009,Washington,Clallam,1990,56464
+53011,Washington,Clark,1990,238053
+53013,Washington,Columbia,1990,4024
+53015,Washington,Cowlitz,1990,82119
+53017,Washington,Douglas,1990,26205
+53019,Washington,Ferry,1990,6295
+53021,Washington,Franklin,1990,37473
+53023,Washington,Garfield,1990,2248
+53025,Washington,Grant,1990,54758
+53027,Washington,Grays Harbor,1990,64175
+53029,Washington,Island,1990,60195
+53031,Washington,Jefferson,1990,20146
+53033,Washington,King,1990,1507319
+53035,Washington,Kitsap,1990,189731
+53037,Washington,Kittitas,1990,26725
+53039,Washington,Klickitat,1990,16616
+53041,Washington,Lewis,1990,59358
+53043,Washington,Lincoln,1990,8864
+53045,Washington,Mason,1990,38341
+53047,Washington,Okanogan,1990,33350
+53049,Washington,Pacific,1990,18882
+53051,Washington,Pend Oreille,1990,8915
+53053,Washington,Pierce,1990,586203
+53055,Washington,San Juan,1990,10035
+53057,Washington,Skagit,1990,79555
+53059,Washington,Skamania,1990,8289
+53061,Washington,Snohomish,1990,465642
+53063,Washington,Spokane,1990,361364
+53065,Washington,Stevens,1990,30948
+53067,Washington,Thurston,1990,161238
+53069,Washington,Wahkiakum,1990,3327
+53071,Washington,Walla Walla,1990,48439
+53073,Washington,Whatcom,1990,127780
+53075,Washington,Whitman,1990,38775
+53077,Washington,Yakima,1990,188823
+54001,West Virginia,Barbour,1990,15699
+54003,West Virginia,Berkeley,1990,59253
+54005,West Virginia,Boone,1990,25870
+54007,West Virginia,Braxton,1990,12998
+54009,West Virginia,Brooke,1990,26992
+54011,West Virginia,Cabell,1990,96827
+54013,West Virginia,Calhoun,1990,7885
+54015,West Virginia,Clay,1990,9983
+54017,West Virginia,Doddridge,1990,6994
+54019,West Virginia,Fayette,1990,47952
+54021,West Virginia,Gilmer,1990,7669
+54023,West Virginia,Grant,1990,10428
+54025,West Virginia,Greenbrier,1990,34693
+54027,West Virginia,Hampshire,1990,16498
+54029,West Virginia,Hancock,1990,35233
+54031,West Virginia,Hardy,1990,10977
+54033,West Virginia,Harrison,1990,69371
+54035,West Virginia,Jackson,1990,25938
+54037,West Virginia,Jefferson,1990,35926
+54039,West Virginia,Kanawha,1990,207619
+54041,West Virginia,Lewis,1990,17223
+54043,West Virginia,Lincoln,1990,21382
+54045,West Virginia,Logan,1990,43032
+54049,West Virginia,Marion,1990,57249
+54051,West Virginia,Marshall,1990,37356
+54053,West Virginia,Mason,1990,25178
+54047,West Virginia,McDowell,1990,35233
+54055,West Virginia,Mercer,1990,64980
+54057,West Virginia,Mineral,1990,26697
+54059,West Virginia,Mingo,1990,33739
+54061,West Virginia,Monongalia,1990,75509
+54063,West Virginia,Monroe,1990,12406
+54065,West Virginia,Morgan,1990,12128
+54067,West Virginia,Nicholas,1990,26775
+54069,West Virginia,Ohio,1990,50871
+54071,West Virginia,Pendleton,1990,8054
+54073,West Virginia,Pleasants,1990,7546
+54075,West Virginia,Pocahontas,1990,9008
+54077,West Virginia,Preston,1990,29037
+54079,West Virginia,Putnam,1990,42835
+54081,West Virginia,Raleigh,1990,76819
+54083,West Virginia,Randolph,1990,27803
+54085,West Virginia,Ritchie,1990,10233
+54087,West Virginia,Roane,1990,15120
+54089,West Virginia,Summers,1990,14204
+54091,West Virginia,Taylor,1990,15144
+54093,West Virginia,Tucker,1990,7728
+54095,West Virginia,Tyler,1990,9796
+54097,West Virginia,Upshur,1990,22867
+54099,West Virginia,Wayne,1990,41636
+54101,West Virginia,Webster,1990,10729
+54103,West Virginia,Wetzel,1990,19258
+54105,West Virginia,Wirt,1990,5192
+54107,West Virginia,Wood,1990,86915
+54109,West Virginia,Wyoming,1990,28990
+55001,Wisconsin,Adams,1990,15682
+55003,Wisconsin,Ashland,1990,16307
+55005,Wisconsin,Barron,1990,40750
+55007,Wisconsin,Bayfield,1990,14008
+55009,Wisconsin,Brown,1990,194594
+55011,Wisconsin,Buffalo,1990,13584
+55013,Wisconsin,Burnett,1990,13084
+55015,Wisconsin,Calumet,1990,34291
+55017,Wisconsin,Chippewa,1990,52360
+55019,Wisconsin,Clark,1990,31647
+55021,Wisconsin,Columbia,1990,45088
+55023,Wisconsin,Crawford,1990,15940
+55025,Wisconsin,Dane,1990,367085
+55027,Wisconsin,Dodge,1990,76559
+55029,Wisconsin,Door,1990,25690
+55031,Wisconsin,Douglas,1990,41758
+55033,Wisconsin,Dunn,1990,35909
+55035,Wisconsin,Eau Claire,1990,85183
+55037,Wisconsin,Florence,1990,4590
+55039,Wisconsin,Fond du Lac,1990,90083
+55041,Wisconsin,Forest,1990,8776
+55043,Wisconsin,Grant,1990,49264
+55045,Wisconsin,Green,1990,30339
+55047,Wisconsin,Green Lake,1990,18651
+55049,Wisconsin,Iowa,1990,20150
+55051,Wisconsin,Iron,1990,6153
+55053,Wisconsin,Jackson,1990,16588
+55055,Wisconsin,Jefferson,1990,67783
+55057,Wisconsin,Juneau,1990,21650
+55059,Wisconsin,Kenosha,1990,128181
+55061,Wisconsin,Kewaunee,1990,18878
+55063,Wisconsin,La Crosse,1990,97904
+55065,Wisconsin,Lafayette,1990,16076
+55067,Wisconsin,Langlade,1990,19505
+55069,Wisconsin,Lincoln,1990,26993
+55071,Wisconsin,Manitowoc,1990,80421
+55073,Wisconsin,Marathon,1990,115400
+55075,Wisconsin,Marinette,1990,40548
+55077,Wisconsin,Marquette,1990,12321
+55078,Wisconsin,Menominee,1990,3890
+55079,Wisconsin,Milwaukee,1990,959275
+55081,Wisconsin,Monroe,1990,36633
+55083,Wisconsin,Oconto,1990,30226
+55085,Wisconsin,Oneida,1990,31679
+55087,Wisconsin,Outagamie,1990,140510
+55089,Wisconsin,Ozaukee,1990,72831
+55091,Wisconsin,Pepin,1990,7107
+55093,Wisconsin,Pierce,1990,32765
+55095,Wisconsin,Polk,1990,34773
+55097,Wisconsin,Portage,1990,61405
+55099,Wisconsin,Price,1990,15600
+55101,Wisconsin,Racine,1990,175034
+55103,Wisconsin,Richland,1990,17521
+55105,Wisconsin,Rock,1990,139510
+55107,Wisconsin,Rusk,1990,15079
+55111,Wisconsin,Sauk,1990,46975
+55113,Wisconsin,Sawyer,1990,14181
+55115,Wisconsin,Shawano,1990,37157
+55117,Wisconsin,Sheboygan,1990,103877
+55109,Wisconsin,St. Croix,1990,50251
+55119,Wisconsin,Taylor,1990,18901
+55121,Wisconsin,Trempealeau,1990,25263
+55123,Wisconsin,Vernon,1990,25617
+55125,Wisconsin,Vilas,1990,17707
+55127,Wisconsin,Walworth,1990,75000
+55129,Wisconsin,Washburn,1990,13772
+55131,Wisconsin,Washington,1990,95328
+55133,Wisconsin,Waukesha,1990,304715
+55135,Wisconsin,Waupaca,1990,46104
+55137,Wisconsin,Waushara,1990,19385
+55139,Wisconsin,Winnebago,1990,140320
+55141,Wisconsin,Wood,1990,73605
+56001,Wyoming,Albany,1990,30797
+56003,Wyoming,Big Horn,1990,10525
+56005,Wyoming,Campbell,1990,29370
+56007,Wyoming,Carbon,1990,16659
+56009,Wyoming,Converse,1990,11128
+56011,Wyoming,Crook,1990,5294
+56013,Wyoming,Fremont,1990,33662
+56015,Wyoming,Goshen,1990,12373
+56017,Wyoming,Hot Springs,1990,4809
+56019,Wyoming,Johnson,1990,6145
+56021,Wyoming,Laramie,1990,73142
+56023,Wyoming,Lincoln,1990,12625
+56025,Wyoming,Natrona,1990,61226
+56027,Wyoming,Niobrara,1990,2499
+56029,Wyoming,Park,1990,23178
+56031,Wyoming,Platte,1990,8145
+56033,Wyoming,Sheridan,1990,23562
+56035,Wyoming,Sublette,1990,4843
+56037,Wyoming,Sweetwater,1990,38823
+56039,Wyoming,Teton,1990,11172
+56041,Wyoming,Uinta,1990,18705
+56043,Wyoming,Washakie,1990,8388
+56045,Wyoming,Weston,1990,6518
