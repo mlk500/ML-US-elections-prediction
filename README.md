@@ -1,7 +1,7 @@
 US Election Analysis
 ====================
 
-This project analyzes US election data from 1976-2020, with a focus on predicting voter turnout percentages and election outcomes. T
+This project analyzes US election data from 1976-2020, with a focus on predicting voter turnout percentages and election outcomes.
 
 PCA and t-SNE Analysis
 ---------------------------------
